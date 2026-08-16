@@ -1,0 +1,7 @@
+/* Dual theme tokens  light defaults live in @theme (globals.css); dark overrides here */
+
+.dark {
+  --color-bg: #000000;
+  --color-heading: #ffffff;
+  --color-body: #ffffff80;
+}
