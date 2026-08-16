@@ -2,6 +2,7 @@ export { BrandDetail } from "./BrandDetail";
 export { BrandShowcase } from "./BrandShowcase";
 export { CategoryList } from "./CategoryList";
 export { FloatingCTA } from "./FloatingCTA";
+export { Footer } from "./Footer";
 export { HeroVideo } from "./HeroVideo";
 export { IntroExperience } from "./IntroExperience";
 export { LandingSection } from "./LandingSection";

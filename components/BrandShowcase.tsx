@@ -27,11 +27,11 @@ export function BrandShowcase({ brand }: BrandShowcaseProps) {
     if (!card || xTo.current) return;
 
     xTo.current = gsap.quickTo(card, "x", {
-      duration: 0.55,
+      duration: 0.28,
       ease: "power2.out",
     });
     yTo.current = gsap.quickTo(card, "y", {
-      duration: 0.55,
+      duration: 0.28,
       ease: "power2.out",
     });
   };
@@ -58,7 +58,7 @@ export function BrandShowcase({ brand }: BrandShowcaseProps) {
   };
 
   return (
-    <Reveal>
+    <Reveal y={0} duration={0.36}>
       <article className="w-full">
         <header className="mb-4 flex items-baseline justify-between gap-6 md:mb-6">
           <h2 className="font-sans text-xs font-normal text-heading md:text-sm">

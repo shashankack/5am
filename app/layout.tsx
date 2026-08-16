@@ -1,7 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import localFont from "next/font/local";
 import { Noto_Serif } from "next/font/google";
-import { Navbar } from "@/components";
+import { Footer, Navbar } from "@/components";
 import { INTRO_BOOT_SCRIPT } from "@/lib/intro";
 import "./globals.css";
 
@@ -55,6 +55,7 @@ export default function RootLayout({
       <body className="flex min-h-full flex-col bg-bg font-sans text-body antialiased">
         <Navbar />
         {children}
+        <Footer />
       </body>
     </html>
   );

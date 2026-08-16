@@ -6,10 +6,10 @@ import { gsap, useGSAP } from "@/lib/gsap";
 type RevealProps = {
   children: ReactNode;
   className?: string;
-  /** Stagger children matching this selector */
   stagger?: string;
   y?: number;
   delay?: number;
+  duration?: number;
   start?: string;
 };
 
@@ -17,9 +17,10 @@ export function Reveal({
   children,
   className,
   stagger,
-  y = 28,
+  y = 14,
   delay = 0,
-  start = "top 88%",
+  duration = 0.48,
+  start = "top 90%",
 }: RevealProps) {
   const rootRef = useRef<HTMLDivElement>(null);
 
@@ -37,14 +38,16 @@ export function Reveal({
 
       gsap.fromTo(
         targets,
-        { opacity: 0, y },
+        { autoAlpha: 0, y },
         {
-          opacity: 1,
+          autoAlpha: 1,
           y: 0,
-          duration: 0.95,
+          duration,
           delay,
-          ease: "power3.out",
-          stagger: stagger ? 0.07 : 0,
+          ease: "power2.out",
+          stagger: stagger ? 0.04 : 0,
+          force3D: true,
+          overwrite: "auto",
           scrollTrigger: {
             trigger: root,
             start,

@@ -6,13 +6,214 @@
         "slug": "automotive",
         "brands": [
           {
-            "title": "G-Shock x Shubman Gill",
-            "slug": "g-shock-x-shubman-gill",
-            "caption": "Global watch campaign",
-            "description": "Placeholder Description for now",
+            "title": "Audi",
+            "slug": "audi",
+            "caption": "Caption",
+            "description": "",
             "media": {
               "logo": "",
               "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Mercedes-Benz",
+            "slug": "mercedes-benz",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Hyundai",
+            "slug": "hyundai",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Bharat Benz",
+            "slug": "bharat-benz",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "TVS",
+            "slug": "tvs",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Switch",
+            "slug": "switch",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          }
+        ]
+      },
+      {
+        "title": "Luxury & Designer Fashion",
+        "slug": "luxury-designer-fashion",
+        "brands": [
+          {
+            "title": "Gucci",
+            "slug": "gucci",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Dior",
+            "slug": "dior",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [
+                [],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786888494/SD2_nrifzr.png",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786888481/SD4_q89rpx.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786888478/SD7_ulj8hq.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786888475/SD6_pku4at.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786888473/SaveClip.App_653907246_17972555733006778_8778942656087341668_n_ubxpvs.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786888461/SaveClip.App_656423827_18194683246358979_5185861497879052482_n_fe0r1y.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786888459/SaveClip.App_660975857_18126274483603648_3046760969129786420_n_1_tiktv7.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786888456/SaveClip.App_653907246_17972555733006778_8778942656087341668_n_1_ggfvt0.jpg"
+                ]
+              ],
+              "videos": []
+            }
+          },
+          {
+            "title": "Dior x Shubman Gill",
+            "slug": "dior-x-shubman-gill",
+            "caption": "Luxury fashion x sports talent",
+            "description": "Placeholder Description for now",
+            "media": {
+              "logo": "",
+              "images": [
+                [],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786888494/SD2_nrifzr.png",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786888481/SD4_q89rpx.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786888478/SD7_ulj8hq.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786888475/SD6_pku4at.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786888473/SaveClip.App_653907246_17972555733006778_8778942656087341668_n_ubxpvs.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786888461/SaveClip.App_656423827_18194683246358979_5185861497879052482_n_fe0r1y.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786888459/SaveClip.App_660975857_18126274483603648_3046760969129786420_n_1_tiktv7.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786888456/SaveClip.App_653907246_17972555733006778_8778942656087341668_n_1_ggfvt0.jpg"
+                ]
+              ],
+              "videos": []
+            }
+          },
+          {
+            "title": "Amit",
+            "slug": "amit",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Manish Malhotra",
+            "slug": "manish-malhotra",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "AK OK",
+            "slug": "ak-ok",
+            "caption": "Contemporary footwear brand",
+            "description": "Placeholder Description for now",
+            "media": {
+              "logo": "",
+              "images": [
+                [],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807974/SaveClip.App_503858359_17926128579076576_2052656211506934565_n_qs9j5i.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807971/SaveClip.App_503807023_17926128753076576_2107985613288008356_n_wa7zup.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807969/SaveClip.App_503337075_17926128531076576_4764995364302411881_n_fjmpci.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807966/SaveClip.App_503997224_17926128870076576_1196953125696390785_n_om8esy.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807964/SaveClip.App_503228058_17926128699076576_4146623068924277287_n_r037li.jpg"
+                ]
+              ],
+              "videos": []
+            }
+          },
+          {
+            "title": "B Label",
+            "slug": "b-label",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          }
+        ]
+      },
+      {
+        "title": "Fashion, Sportswear & Lifestyle",
+        "slug": "fashion-sportswear-lifestyle",
+        "brands": [
+          {
+            "title": "Adidas",
+            "slug": "adidas",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786806424/SaveClip.App_651983747_18366806569164973_4922003903761360740_n_1_ztkzkk.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786806425/SaveClip.App_653364651_18366806584164973_8495338228523857633_n_szmwzg.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786806425/SaveClip.App_653364651_18366806584164973_8495338228523857633_n_szmwzg.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786806424/SaveClip.App_651983747_18366806569164973_4922003903761360740_n_1_ztkzkk.jpg"
+                ],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786806424/SaveClip.App_651983747_18366806569164973_4922003903761360740_n_1_ztkzkk.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786806425/SaveClip.App_653364651_18366806584164973_8495338228523857633_n_szmwzg.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786806424/SaveClip.App_651983747_18366806569164973_4922003903761360740_n_1_ztkzkk.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786806425/SaveClip.App_653364651_18366806584164973_8495338228523857633_n_szmwzg.jpg"
+                ]
+              ],
               "videos": []
             }
           },
@@ -41,6 +242,115 @@
             }
           },
           {
+            "title": "Adidas x Indian Cricket Team",
+            "slug": "adidas-x-indian-cricket-team",
+            "caption": "Global sportswear x Indian Cricket Team",
+            "description": "Placeholder Description for now",
+            "media": {
+              "logo": "",
+              "images": [
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786806424/SaveClip.App_651983747_18366806569164973_4922003903761360740_n_1_ztkzkk.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786806425/SaveClip.App_653364651_18366806584164973_8495338228523857633_n_szmwzg.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786806425/SaveClip.App_653364651_18366806584164973_8495338228523857633_n_szmwzg.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786806424/SaveClip.App_651983747_18366806569164973_4922003903761360740_n_1_ztkzkk.jpg"
+                ],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807252/SaveClip.App_657528647_17958794085076576_1974853134174184880_n_gabsjp.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807250/SaveClip.App_649202748_18365351872164973_8159137966333789800_n_mpjbjc.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807249/SaveClip.App_649221468_18365351860164973_8434950803593615351_n_qlvarv.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807248/SaveClip.App_649226002_18365351863164973_8909178416403343773_n_pw7dh8.jpg"
+                ]
+              ],
+              "videos": []
+            }
+          },
+          {
+            "title": "Fila",
+            "slug": "fila",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Snitch",
+            "slug": "snitch",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Inon",
+            "slug": "inon",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Zara",
+            "slug": "zara",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          }
+        ]
+      },
+      {
+        "title": "Cricket & Sports",
+        "slug": "cricket-sports",
+        "brands": [
+          {
+            "title": "Indian Cricket Team",
+            "slug": "indian-cricket-team",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786806424/SaveClip.App_651983747_18366806569164973_4922003903761360740_n_1_ztkzkk.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786806425/SaveClip.App_653364651_18366806584164973_8495338228523857633_n_szmwzg.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786806425/SaveClip.App_653364651_18366806584164973_8495338228523857633_n_szmwzg.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786806424/SaveClip.App_651983747_18366806569164973_4922003903761360740_n_1_ztkzkk.jpg"
+                ],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807252/SaveClip.App_657528647_17958794085076576_1974853134174184880_n_gabsjp.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807250/SaveClip.App_649202748_18365351872164973_8159137966333789800_n_mpjbjc.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807249/SaveClip.App_649221468_18365351860164973_8434950803593615351_n_qlvarv.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807248/SaveClip.App_649226002_18365351863164973_8909178416403343773_n_pw7dh8.jpg"
+                ]
+              ],
+              "videos": []
+            }
+          },
+          {
+            "title": "NBA",
+            "slug": "nba",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
             "title": "Virat Kohli",
             "slug": "virat-kohli",
             "caption": "Cricket Icon",
@@ -65,35 +375,364 @@
             }
           },
           {
-            "title": "Adidas x Indian Cricket Team",
-            "slug": "adidas-x-indian-cricket-team",
-            "caption": "Global sportswear x Indian Cricket Team",
-            "description": "Placeholder Description for now",
+            "title": "Rohit Sharma",
+            "slug": "rohit-sharma",
+            "caption": "Caption",
+            "description": "",
             "media": {
               "logo": "",
-              "images": [
-                [
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786806424/SaveClip.App_651983747_18366806569164973_4922003903761360740_n_1_ztkzkk.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786806425/SaveClip.App_653364651_18366806584164973_8495338228523857633_n_szmwzg.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786806425/SaveClip.App_653364651_18366806584164973_8495338228523857633_n_szmwzg.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786806424/SaveClip.App_651983747_18366806569164973_4922003903761360740_n_1_ztkzkk.jpg"
-                ],
-                [
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807252/SaveClip.App_657528647_17958794085076576_1974853134174184880_n_gabsjp.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807250/SaveClip.App_649202748_18365351872164973_8159137966333789800_n_mpjbjc.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807249/SaveClip.App_649221468_18365351860164973_8434950803593615351_n_qlvarv.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807248/SaveClip.App_649226002_18365351863164973_8909178416403343773_n_pw7dh8.jpg"
-                ]
-              ],
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Hardik Pandya",
+            "slug": "hardik-pandya",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "KL Rahul",
+            "slug": "kl-rahul",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Shubman Gill",
+            "slug": "shubman-gill",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Abhishek Sharma",
+            "slug": "abhishek-sharma",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Tilak Varma",
+            "slug": "tilak-varma",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Washington Sundar",
+            "slug": "washington-sundar",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Ishan Kishan",
+            "slug": "ishan-kishan",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
               "videos": []
             }
           }
         ]
       },
       {
-        "title": "Luxury & Designer Fashion",
-        "slug": "luxury-designer-fashion",
+        "title": "Actors & Public Figures",
+        "slug": "actors-public-figures",
         "brands": [
+          {
+            "title": "Ananya Panday",
+            "slug": "ananya-panday",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Athiya Shetty",
+            "slug": "athiya-shetty",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Disha Patani",
+            "slug": "disha-patani",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Kiara Advani",
+            "slug": "kiara-advani",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Malvika",
+            "slug": "malvika",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Sara Ali Khan",
+            "slug": "sara-ali-khan",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          }
+        ]
+      },
+      {
+        "title": "Musicians & Artists",
+        "slug": "musicians-artists",
+        "brands": [
+          {
+            "title": "Anuv Jain",
+            "slug": "anuv-jain",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "AP Dhillon",
+            "slug": "ap-dhillon",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Diljit Dosanjh",
+            "slug": "diljit-dosanjh",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Hanumankind",
+            "slug": "hanumankind",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [
+                [],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786889296/SaveClip.App_557711682_18343873564164973_8323769285552738803_n_xsvgvt.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786889335/SaveClip.App_557553163_18343873573164973_3350751464860282106_n_d5pm0k.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786889342/SaveClip.App_523884725_18336744703164973_1478743264292435627_n_aewdwy.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786889350/SaveClip.App_524157234_18336744721164973_2588849629157211151_n_mdvxaj.jpg"
+                ]
+              ],
+              "videos": []
+            }
+          },
+          {
+            "title": "Rolling Stone x Humankind",
+            "slug": "rolling-stone-x-humankind",
+            "caption": "Music and culture editorial",
+            "description": "Placeholder Description for now",
+            "media": {
+              "logo": "",
+              "images": [
+                [],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786889296/SaveClip.App_557711682_18343873564164973_8323769285552738803_n_xsvgvt.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786889335/SaveClip.App_557553163_18343873573164973_3350751464860282106_n_d5pm0k.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786889342/SaveClip.App_523884725_18336744703164973_1478743264292435627_n_aewdwy.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786889350/SaveClip.App_524157234_18336744721164973_2588849629157211151_n_mdvxaj.jpg"
+                ]
+              ],
+              "videos": []
+            }
+          },
+          {
+            "title": "KR$NA",
+            "slug": "krsna",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "NAV",
+            "slug": "nav",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "NAV x Rolling Stone",
+            "slug": "nav-x-rolling-stone",
+            "caption": "Music and culture editorial",
+            "description": "Placeholder Description for now",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Tyre",
+            "slug": "tyre",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Yung Raja",
+            "slug": "yung-raja",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          }
+        ]
+      },
+      {
+        "title": "Banking & Financial Services",
+        "slug": "banking-financial-services",
+        "brands": [
+          {
+            "title": "HSBC Bank",
+            "slug": "hsbc-bank",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Tata Capital",
+            "slug": "tata-capital",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          }
+        ]
+      },
+      {
+        "title": "Jewellery",
+        "slug": "jewellery",
+        "brands": [
+          {
+            "title": "Carillon Jewels",
+            "slug": "carillon-jewels",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Chheda Jewelleries",
+            "slug": "chheda-jewelleries",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Signi Jewellery",
+            "slug": "signi-jewellery",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
           {
             "title": "Isharya Jewellers",
             "slug": "isharya-jewellers",
@@ -115,44 +754,128 @@
               ],
               "videos": []
             }
-          },
+          }
+        ]
+      },
+      {
+        "title": "Food & Hospitality",
+        "slug": "food-hospitality",
+        "brands": [
           {
-            "title": "Mokobara",
-            "slug": "mokobara",
-            "caption": "Contemporary luggage and travel brand",
-            "description": "Placeholder Description for now",
+            "title": "Bastian",
+            "slug": "bastian",
+            "caption": "Caption",
+            "description": "",
             "media": {
               "logo": "",
-              "images": [
-                [],
-                [
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807826/SaveClip.App_553369589_18343386904164973_4402585375403618753_n_1_hoap6b.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807824/SaveClip.App_553367910_18343386853164973_2349735157828392993_n_hamuwt.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807820/SaveClip.App_552940920_18343386877164973_5617337783419739608_n_wxvzgl.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807818/SaveClip.App_554321883_18343386862164973_106963610971966490_n_z3u1bv.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807816/SaveClip.App_553369482_18343386925164973_8556083796393113681_n_noadmj.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807815/SaveClip.App_552186318_18343386934164973_7236474893167657105_n_yrzm6g.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807812/SaveClip.App_554397612_18343386922164973_8106981402992421076_n_hbqihy.jpg"
-                ]
-              ],
+              "images": [[], []],
+              "videos": []
+            }
+          }
+        ]
+      },
+      {
+        "title": "Beauty, Cosmetics & Personal Care",
+        "slug": "beauty-cosmetics-personal-care",
+        "brands": [
+          {
+            "title": "Colgate",
+            "slug": "colgate",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
               "videos": []
             }
           },
           {
-            "title": "AK OK",
-            "slug": "ak-ok",
-            "caption": "Contemporary footwear brand",
+            "title": "Kylie Cosmetics",
+            "slug": "kylie-cosmetics",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Lakmé",
+            "slug": "lakm",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Mcaffeine",
+            "slug": "mcaffeine",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Personal Touch",
+            "slug": "personal-touch",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Nuede x Sreeleela",
+            "slug": "nuede-x-sreeleela",
+            "caption": "Beauty campaign",
             "description": "Placeholder Description for now",
             "media": {
               "logo": "",
               "images": [
                 [],
                 [
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807974/SaveClip.App_503858359_17926128579076576_2052656211506934565_n_qs9j5i.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807971/SaveClip.App_503807023_17926128753076576_2107985613288008356_n_wa7zup.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807969/SaveClip.App_503337075_17926128531076576_4764995364302411881_n_fjmpci.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807966/SaveClip.App_503997224_17926128870076576_1196953125696390785_n_om8esy.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807964/SaveClip.App_503228058_17926128699076576_4146623068924277287_n_r037li.jpg"
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786889028/SaveClip.App_555491406_18343586980164973_3264193690736107502_n_tcizbk.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786889031/SaveClip.App_558162194_17939849484076576_1912248498444912025_n_s6oim2.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786889041/SaveClip.App_554997678_18343586956164973_6965635420383988642_n_dpfoq3.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786889047/SaveClip.App_554977320_18343586989164973_2672932247180156710_n_ydkl4z.jpg"
+                ]
+              ],
+              "videos": []
+            }
+          }
+        ]
+      },
+      {
+        "title": "E-commerce, Retail & Media",
+        "slug": "ecommerce-retail-media",
+        "brands": [
+          {
+            "title": "AJIO",
+            "slug": "ajio",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [
+                [],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786808170/SaveClip.App_525523150_18337044367164973_8136660913018433670_n_zbtyjv.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786808179/SaveClip.App_525698688_18337044319164973_8144089673895958583_n_ozrn7q.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786808176/SaveClip.App_526749172_18337044376164973_2045088222079068237_n_fs665l.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786808162/SaveClip.App_525356948_18337044301164973_4833695565029841759_n_eaoyh7.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786808159/SaveClip.App_526362655_18337044328164973_558656474525280505_n_dpfi5f.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786808157/SaveClip.App_524930206_18337044358164973_2674300804169792179_n_abjhaa.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786808155/SaveClip.App_526370019_18337044310164973_2926734127794905792_n_uqoime.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786808153/SaveClip.App_525504529_18337044286164973_5432031005975495011_n_ksrwos.jpg"
                 ]
               ],
               "videos": []
@@ -180,40 +903,61 @@
               ],
               "videos": []
             }
-          }
-        ]
-      },
-      {
-        "title": "Fashion, Sportswear & Lifestyle",
-        "slug": "fashion-sportswear-lifestyle",
-        "brands": [
+          },
           {
-            "title": "Dior x Shubman Gill",
-            "slug": "dior-x-shubman-gill",
-            "caption": "Luxury fashion x sports talent",
-            "description": "Placeholder Description for now",
+            "title": "Nykaa",
+            "slug": "nykaa",
+            "caption": "Caption",
+            "description": "",
             "media": {
               "logo": "",
-              "images": [
-                [],
-                [
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786888494/SD2_nrifzr.png",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786888481/SD4_q89rpx.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786888478/SD7_ulj8hq.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786888475/SD6_pku4at.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786888473/SaveClip.App_653907246_17972555733006778_8778942656087341668_n_ubxpvs.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786888461/SaveClip.App_656423827_18194683246358979_5185861497879052482_n_fe0r1y.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786888459/SaveClip.App_660975857_18126274483603648_3046760969129786420_n_1_tiktv7.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786888456/SaveClip.App_653907246_17972555733006778_8778942656087341668_n_1_ggfvt0.jpg"
-                ]
-              ],
+              "images": [[], []],
               "videos": []
             }
           },
           {
-            "title": "NAV x Rolling Stone",
-            "slug": "nav-x-rolling-stone",
-            "caption": "Music and culture editorial",
+            "title": "Vogue",
+            "slug": "vogue",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          }
+        ]
+      },
+      {
+        "title": "Accessories, Eyewear & Travel",
+        "slug": "accessories-eyewear-travel",
+        "brands": [
+          {
+            "title": "American Tourister",
+            "slug": "american-tourister",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "G-SHOCK",
+            "slug": "g-shock",
+            "caption": "Caption",
+            "description": "",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "G-Shock x Shubman Gill",
+            "slug": "g-shock-x-shubman-gill",
+            "caption": "Global watch campaign",
             "description": "Placeholder Description for now",
             "media": {
               "logo": "",
@@ -222,57 +966,35 @@
             }
           },
           {
-            "title": "Nuede x Sreeleela",
-            "slug": "nuede-x-sreeleela",
-            "caption": "Beauty campaign",
-            "description": "Placeholder Description for now",
+            "title": "Lenskart",
+            "slug": "lenskart",
+            "caption": "Caption",
+            "description": "",
             "media": {
               "logo": "",
-              "images": [
-                [],
-                [
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786889028/SaveClip.App_555491406_18343586980164973_3264193690736107502_n_tcizbk.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786889031/SaveClip.App_558162194_17939849484076576_1912248498444912025_n_s6oim2.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786889041/SaveClip.App_554997678_18343586956164973_6965635420383988642_n_dpfoq3.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786889047/SaveClip.App_554977320_18343586989164973_2672932247180156710_n_ydkl4z.jpg"
-                ]
-              ],
+              "images": [[], []],
               "videos": []
             }
           },
           {
-            "title": "Rolling Stone x Humankind",
-            "slug": "rolling-stone-x-humankind",
-            "caption": "Music and culture editorial",
+            "title": "Mokobara",
+            "slug": "mokobara",
+            "caption": "Contemporary luggage and travel brand",
             "description": "Placeholder Description for now",
             "media": {
               "logo": "",
               "images": [
                 [],
                 [
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786889296/SaveClip.App_557711682_18343873564164973_8323769285552738803_n_xsvgvt.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786889335/SaveClip.App_557553163_18343873573164973_3350751464860282106_n_d5pm0k.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786889342/SaveClip.App_523884725_18336744703164973_1478743264292435627_n_aewdwy.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786889350/SaveClip.App_524157234_18336744721164973_2588849629157211151_n_mdvxaj.jpg"
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807826/SaveClip.App_553369589_18343386904164973_4402585375403618753_n_1_hoap6b.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807824/SaveClip.App_553367910_18343386853164973_2349735157828392993_n_hamuwt.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807820/SaveClip.App_552940920_18343386877164973_5617337783419739608_n_wxvzgl.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807818/SaveClip.App_554321883_18343386862164973_106963610971966490_n_z3u1bv.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807816/SaveClip.App_553369482_18343386925164973_8556083796393113681_n_noadmj.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807815/SaveClip.App_552186318_18343386934164973_7236474893167657105_n_yrzm6g.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807812/SaveClip.App_554397612_18343386922164973_8106981402992421076_n_hbqihy.jpg"
                 ]
               ],
-              "videos": []
-            }
-          }
-        ]
-      },
-      {
-        "title": "Cricket & Sports",
-        "slug": "cricket-sports",
-        "brands": [
-          {
-            "title": "Sample Sports League",
-            "slug": "sample-sports-league",
-            "caption": "Match-day and athlete content",
-            "description": "Sports and cricket campaign production for athletes and leagues.",
-            "media": {
-              "logo": "",
-              "images": [[], []],
               "videos": []
             }
           }

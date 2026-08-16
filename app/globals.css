@@ -6,7 +6,8 @@
   --color-heading: #000000;
   --color-body: #00000080;
 
-  --font-sans: var(--font-helvetica), "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-sans:
+    var(--font-helvetica), "Helvetica Neue", Helvetica, Arial, sans-serif;
   --font-heading: var(--font-noto-serif), ui-serif, Georgia, serif;
 }
 
@@ -15,6 +16,19 @@
     background-color: var(--color-bg);
     color: var(--color-body);
     font-family: var(--font-sans);
+  }
+
+  body::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  body::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 10%;
+  }
+
+  body::-webkit-scrollbar-thumb {
+    background: var(--color-body);
   }
 
   h1,
