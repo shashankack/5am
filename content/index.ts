@@ -28,7 +28,9 @@ export function getBrandsBySlugs(slugs: string[]): Brand[] {
 function imageGroup(brand: Brand, index: number): string[] {
   const group = brand.media.images[index];
   if (!Array.isArray(group)) return [];
-  return group.filter((src): src is string => typeof src === "string");
+  return group.filter(
+    (src): src is string => typeof src === "string" && src.trim().length > 0,
+  );
 }
 
 /** Landing grid — first sub-array. */

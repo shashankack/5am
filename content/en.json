@@ -9,7 +9,7 @@
             "title": "Audi",
             "slug": "audi",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
               "images": [[], []],
@@ -20,7 +20,7 @@
             "title": "Mercedes-Benz",
             "slug": "mercedes-benz",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
               "images": [[], []],
@@ -31,7 +31,7 @@
             "title": "Hyundai",
             "slug": "hyundai",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
               "images": [[], []],
@@ -42,10 +42,19 @@
             "title": "Bharat Benz",
             "slug": "bharat-benz",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
-              "images": [[], []],
+              "images": [
+                [],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787725488/Artboard_1_ng86yu.png",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787725490/Artboard_3_fxhode.png",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787725525/Artboard_2_kxstui.png",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787725526/Artboard_5_fmxan0.png",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787725529/Artboard_4_ynbu1v.png"
+                ]
+              ],
               "videos": []
             }
           },
@@ -53,7 +62,7 @@
             "title": "TVS",
             "slug": "tvs",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
               "images": [[], []],
@@ -64,10 +73,39 @@
             "title": "Switch",
             "slug": "switch",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
-              "images": [[], []],
+              "images": [
+                [],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787732870/switch_02_x7zswy.png",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787732866/switch_04_wbzhxt.png",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787732864/switch_01_s65rh3.png",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787732864/switch_03_a5z1kz.png",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787732863/switch_05_pxog4t.png"
+                ]
+              ],
+              "videos": []
+            }
+          },
+          {
+            "title": "Ampere",
+            "slug": "ampere",
+            "caption": "Caption",
+            "description": "Placeholder Description for now",
+            "media": {
+              "logo": "",
+              "images": [
+                [],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787732927/amp1_cwv1ef.png",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787732931/amp_4-1_apaw8d.png",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787732933/amp_3_afgas2.png",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787732926/amp_4_q6c9a4.png",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787732930/amp2_hxry9c.png"
+                ]
+              ],
               "videos": []
             }
           }
@@ -78,34 +116,19 @@
         "slug": "luxury-designer-fashion",
         "brands": [
           {
-            "title": "Gucci",
-            "slug": "gucci",
+            "title": "Gucci x Athiya Shetty",
+            "slug": "gucci-x-athiya-shetty",
             "caption": "Caption",
-            "description": "",
-            "media": {
-              "logo": "",
-              "images": [[], []],
-              "videos": []
-            }
-          },
-          {
-            "title": "Dior",
-            "slug": "dior",
-            "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
               "images": [
                 [],
                 [
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786888494/SD2_nrifzr.png",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786888481/SD4_q89rpx.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786888478/SD7_ulj8hq.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786888475/SD6_pku4at.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786888473/SaveClip.App_653907246_17972555733006778_8778942656087341668_n_ubxpvs.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786888461/SaveClip.App_656423827_18194683246358979_5185861497879052482_n_fe0r1y.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786888459/SaveClip.App_660975857_18126274483603648_3046760969129786420_n_1_tiktv7.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786888456/SaveClip.App_653907246_17972555733006778_8778942656087341668_n_1_ggfvt0.jpg"
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787733047/SaveClip.App_591177941_18355513924164973_7164049441569358561_n_faz8ts.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787733052/SaveClip.App_604003211_18355513759164973_3212209749354598845_n_xs0erv.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787733054/SaveClip.App_604223950_18355514026164973_7444169216765338608_n_jgmylf.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787733056/SaveClip.App_604594717_18355514107164973_8145322842910476607_n_vinpr9.jpg"
                 ]
               ],
               "videos": []
@@ -119,7 +142,12 @@
             "media": {
               "logo": "",
               "images": [
-                [],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786888494/SD2_nrifzr.png",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786888461/SaveClip.App_656423827_18194683246358979_5185861497879052482_n_fe0r1y.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786888473/SaveClip.App_653907246_17972555733006778_8778942656087341668_n_ubxpvs.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786888475/SD6_pku4at.jpg"
+                ],
                 [
                   "https://res.cloudinary.com/dhlowafw0/image/upload/v1786888494/SD2_nrifzr.png",
                   "https://res.cloudinary.com/dhlowafw0/image/upload/v1786888481/SD4_q89rpx.jpg",
@@ -135,13 +163,22 @@
             }
           },
           {
-            "title": "Amit",
-            "slug": "amit",
+            "title": "Amiri",
+            "slug": "amiri",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
-              "images": [[], []],
+              "images": [
+                [],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787733234/H17_itiqvo.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787733234/H16_hciuvp.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787733383/H18_p7ry2o.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787733385/H11_i7lfo4.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787733389/H110_rr3nap.jpg"
+                ]
+              ],
               "videos": []
             }
           },
@@ -149,7 +186,7 @@
             "title": "Manish Malhotra",
             "slug": "manish-malhotra",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
               "images": [[], []],
@@ -157,14 +194,19 @@
             }
           },
           {
-            "title": "AK OK",
+            "title": "AK-OK",
             "slug": "ak-ok",
             "caption": "Contemporary footwear brand",
             "description": "Placeholder Description for now",
             "media": {
               "logo": "",
               "images": [
-                [],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807974/SaveClip.App_503858359_17926128579076576_2052656211506934565_n_qs9j5i.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807971/SaveClip.App_503807023_17926128753076576_2107985613288008356_n_wa7zup.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807964/SaveClip.App_503228058_17926128699076576_4146623068924277287_n_r037li.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807966/SaveClip.App_503997224_17926128870076576_1196953125696390785_n_om8esy.jpg"
+                ],
                 [
                   "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807974/SaveClip.App_503858359_17926128579076576_2052656211506934565_n_qs9j5i.jpg",
                   "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807971/SaveClip.App_503807023_17926128753076576_2107985613288008356_n_wa7zup.jpg",
@@ -180,7 +222,7 @@
             "title": "B Label",
             "slug": "b-label",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
               "images": [[], []],
@@ -197,7 +239,7 @@
             "title": "Adidas",
             "slug": "adidas",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
               "images": [
@@ -250,10 +292,10 @@
               "logo": "",
               "images": [
                 [
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786806424/SaveClip.App_651983747_18366806569164973_4922003903761360740_n_1_ztkzkk.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786806425/SaveClip.App_653364651_18366806584164973_8495338228523857633_n_szmwzg.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786806425/SaveClip.App_653364651_18366806584164973_8495338228523857633_n_szmwzg.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786806424/SaveClip.App_651983747_18366806569164973_4922003903761360740_n_1_ztkzkk.jpg"
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807249/SaveClip.App_649221468_18365351860164973_8434950803593615351_n_qlvarv.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807248/SaveClip.App_649226002_18365351863164973_8909178416403343773_n_pw7dh8.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807252/SaveClip.App_657528647_17958794085076576_1974853134174184880_n_gabsjp.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807250/SaveClip.App_649202748_18365351872164973_8159137966333789800_n_mpjbjc.jpg"
                 ],
                 [
                   "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807252/SaveClip.App_657528647_17958794085076576_1974853134174184880_n_gabsjp.jpg",
@@ -269,10 +311,21 @@
             "title": "Fila",
             "slug": "fila",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
-              "images": [[], []],
+              "images": [
+                [],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787733801/SaveClip.App_649222186_18079936592060967_6618484950389814107_n_jllqsk.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787733806/SaveClip.App_653103310_18069942509247474_3003598619749126459_n_fznmtc.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787733809/SaveClip.App_651091560_18114106075645411_3236906491299083676_n_zpx0oe.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787733817/SaveClip.App_649251425_18087979856333149_195632314507819048_n_gpsm1k.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787733824/SaveClip.App_649013215_18094610203966648_6413072376712503269_n_xiey4d.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787733828/SaveClip.App_657888261_18575146456060962_5205197148188655288_n_h0waiy.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787733833/SaveClip.App_645598514_18066118337302301_693739053707098707_n_1_fehdsw.jpg"
+                ]
+              ],
               "videos": []
             }
           },
@@ -280,7 +333,7 @@
             "title": "Snitch",
             "slug": "snitch",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
               "images": [[], []],
@@ -288,10 +341,10 @@
             }
           },
           {
-            "title": "Inon",
-            "slug": "inon",
+            "title": "Shein",
+            "slug": "shein",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
               "images": [[], []],
@@ -302,10 +355,21 @@
             "title": "Zara",
             "slug": "zara",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
-              "images": [[], []],
+              "images": [
+                [],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787734109/RS0654_m3mmeh.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787734112/RS0648_shgb6g.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787734115/118A9218_olb7z3.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787734153/RS0705_xpkumf.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787734157/RS0713_zuosse.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787734169/RS0716_o8rqbp.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787734176/RS0718_uh0ssd.jpg"
+                ]
+              ],
               "videos": []
             }
           }
@@ -319,7 +383,7 @@
             "title": "Indian Cricket Team",
             "slug": "indian-cricket-team",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
               "images": [
@@ -343,10 +407,19 @@
             "title": "NBA",
             "slug": "nba",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
-              "images": [[], []],
+              "images": [
+                [],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787734338/DB7_blp0sc.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787734344/DB2_ndffla.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787734530/MK1_opi8ly.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787734534/A1_zlpis9.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787734538/DJ3_mzwfti.jpg"
+                ]
+              ],
               "videos": []
             }
           },
@@ -359,10 +432,10 @@
               "logo": "",
               "images": [
                 [
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786806424/SaveClip.App_651983747_18366806569164973_4922003903761360740_n_1_ztkzkk.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786806425/SaveClip.App_653364651_18366806584164973_8495338228523857633_n_szmwzg.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786806425/SaveClip.App_653364651_18366806584164973_8495338228523857633_n_szmwzg.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786806424/SaveClip.App_651983747_18366806569164973_4922003903761360740_n_1_ztkzkk.jpg"
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807043/SaveClip.App_656823769_18352413079238193_6037297997851473129_n_disiwc.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807041/SaveClip.App_655081856_18130968493541527_6401435133378952361_n_o6mdyr.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807040/SaveClip.App_650843912_17982455447804222_2767251542648707606_n_zbrzsq.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807041/SaveClip.App_653737516_18106338031876132_8452021228975102487_n_dp7opw.jpg"
                 ],
                 [
                   "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807043/SaveClip.App_656823769_18352413079238193_6037297997851473129_n_disiwc.jpg",
@@ -378,7 +451,7 @@
             "title": "Rohit Sharma",
             "slug": "rohit-sharma",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
               "images": [[], []],
@@ -389,10 +462,17 @@
             "title": "Hardik Pandya",
             "slug": "hardik-pandya",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
-              "images": [[], []],
+              "images": [
+                [],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787734890/3_obccll.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787734890/2_t8xsym.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787734890/1_v5uf0o.jpg"
+                ]
+              ],
               "videos": []
             }
           },
@@ -400,10 +480,22 @@
             "title": "KL Rahul",
             "slug": "kl-rahul",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
-              "images": [[], []],
+              "images": [
+                [],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787734943/SaveClip.App_655588391_18059810960406128_8985776458303903731_n_qy9ymb.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787734944/SaveClip.App_654153187_18041839892685029_6674488473508903829_n_dxloyb.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787734944/SaveClip.App_653691431_18011046470840345_2221488832204515343_n_ijcjvt.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787734944/SaveClip.App_650817371_18096014368992366_2550431222566772337_n_xkbgam.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787734945/SaveClip.App_660726865_18584719714030762_550800733639562386_n_lpiq0y.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787734947/SaveClip.App_651505898_18060913352680668_2176175634855705094_n_puyrxx.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787734947/SaveClip.App_654606028_18088078804951100_3255279643755470000_n_rlmhmp.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787734947/SaveClip.App_654776255_18055728566703821_727201365839274740_n_roqamu.jpg"
+                ]
+              ],
               "videos": []
             }
           },
@@ -411,10 +503,17 @@
             "title": "Shubman Gill",
             "slug": "shubman-gill",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
-              "images": [[], []],
+              "images": [
+                [],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735029/SaveClip.App_656278433_17958798120076576_1107172090846307712_n_xqknzb.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735028/SaveClip.App_658210375_18368917696164973_5944985234742453202_n_ekxhpb.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735029/SaveClip.App_657913651_18368917870164973_6237179183951759970_n_e9cxth.jpg"
+                ]
+              ],
               "videos": []
             }
           },
@@ -422,10 +521,19 @@
             "title": "Abhishek Sharma",
             "slug": "abhishek-sharma",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
-              "images": [[], []],
+              "images": [
+                [],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735087/SaveClip.App_475802809_18318316333164973_4994550320185675004_n_kaagez.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735088/SaveClip.App_653542368_18102811450923934_674004798375510849_n_y8gkhj.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735088/SaveClip.App_619515692_18358486924164973_4848512233664194199_n_xpfmhc.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735090/SaveClip.App_655509615_18104075731926409_6135732396941034361_n_qdq1ll.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735096/SaveClip.App_475664894_18318316354164973_7926937765790164954_n_hdwvcg.jpg"
+                ]
+              ],
               "videos": []
             }
           },
@@ -433,7 +541,7 @@
             "title": "Tilak Varma",
             "slug": "tilak-varma",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
               "images": [[], []],
@@ -444,10 +552,17 @@
             "title": "Washington Sundar",
             "slug": "washington-sundar",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
-              "images": [[], []],
+              "images": [
+                [],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735194/SaveClip.App_661881729_18079355054123291_3236842595387244558_n_ay6qvo.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735193/SaveClip.App_657028033_18176708002385015_496959607986181159_n_litrkh.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735192/SaveClip.App_651942886_17955125603942857_6076429553157184664_n_ifordb.jpg"
+                ]
+              ],
               "videos": []
             }
           },
@@ -455,7 +570,7 @@
             "title": "Ishan Kishan",
             "slug": "ishan-kishan",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
               "images": [[], []],
@@ -472,10 +587,17 @@
             "title": "Ananya Panday",
             "slug": "ananya-panday",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
-              "images": [[], []],
+              "images": [
+                [],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735301/SaveClip.App_502756415_18330564619164973_5803539980370970656_n_1_okd9hx.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735302/SaveClip.App_502251038_18330564628164973_599489058182950404_n_1_gfkcx5.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735304/SaveClip.App_502402269_18330564610164973_1463502779030619688_n_1_yzewma.jpg"
+                ]
+              ],
               "videos": []
             }
           },
@@ -483,10 +605,18 @@
             "title": "Athiya Shetty",
             "slug": "athiya-shetty",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
-              "images": [[], []],
+              "images": [
+                [],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787733047/SaveClip.App_591177941_18355513924164973_7164049441569358561_n_faz8ts.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787733052/SaveClip.App_604003211_18355513759164973_3212209749354598845_n_xs0erv.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787733054/SaveClip.App_604223950_18355514026164973_7444169216765338608_n_jgmylf.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787733056/SaveClip.App_604594717_18355514107164973_8145322842910476607_n_vinpr9.jpg"
+                ]
+              ],
               "videos": []
             }
           },
@@ -494,10 +624,27 @@
             "title": "Disha Patani",
             "slug": "disha-patani",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
-              "images": [[], []],
+              "images": [
+                [],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735455/SaveClip.App_650788296_18002562263904882_4759838653668645579_n_llxpft.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735456/SaveClip.App_642278155_17932415223193261_8879810740207302368_n_fzu3fi.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735459/SaveClip.App_656277427_18082495601055229_4026953488366154408_n_ccshgd.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735462/SaveClip.App_654456159_18111844567663605_7769513391702087693_n_haca5r.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735463/SaveClip.App_656395198_18093496193025664_5133768779597307033_n_gwhrvk.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735464/SaveClip.App_652824873_18105269260862281_5249071833051079629_n_yndnfj.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735471/SaveClip.App_655244320_18091516340161239_908603727694432348_n_vkudfz.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735476/SaveClip.App_654341331_18093900377107233_8241408169684200410_n_alxucr.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735478/SaveClip.App_654910311_18085227872218445_5781487228240053024_n_prbfqa.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735482/SaveClip.App_660088458_18431826544188967_2703169935551991877_n_bebaby.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735484/SaveClip.App_652810186_18086342357225548_6816227420177918669_n_qgfniz.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735486/SaveClip.App_654247289_18124439401586649_3398476153395204624_n_h9k1bk.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735490/SaveClip.App_655877077_18081345305061310_503387831951157519_n_zajnoq.jpg"
+                ]
+              ],
               "videos": []
             }
           },
@@ -505,10 +652,21 @@
             "title": "Kiara Advani",
             "slug": "kiara-advani",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
-              "images": [[], []],
+              "images": [
+                [],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735678/SaveClip.App_671797727_18372157969164973_1295004648669488423_n_dgm2xh.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735680/SaveClip.App_673826870_18372157783164973_6766294459887152604_n_w1eq8l.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735683/SaveClip.App_681472315_18372157891164973_330662395678842216_n_k9aapc.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735684/SaveClip.App_670794736_18372157771164973_1807083349507590112_n_xehtuv.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735686/SaveClip.App_671194847_18372158011164973_2234102019659844469_n_ali1gg.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735688/SaveClip.App_671834652_18372158026164973_7053656537603863074_n_bjoskt.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735694/SaveClip.App_673881475_18372157996164973_2561858073377303310_n_u5h6iu.jpg"
+                ]
+              ],
               "videos": []
             }
           },
@@ -516,10 +674,20 @@
             "title": "Malvika",
             "slug": "malvika",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
-              "images": [[], []],
+              "images": [
+                [],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735807/image00014_1_e0mnr1.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735813/image00008_zrp2a3.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735816/image00028_yokmjo.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735818/image00001_posrl6.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735820/image00005_v0eggz.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735822/image00019_srwica.jpg"
+                ]
+              ],
               "videos": []
             }
           },
@@ -527,10 +695,17 @@
             "title": "Sara Ali Khan",
             "slug": "sara-ali-khan",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
-              "images": [[], []],
+              "images": [
+                [],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735931/SaveClip.App_656247393_18086118839345409_7896629311994386304_n_snzx4i.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735934/SaveClip.App_656038593_18106109080893841_5460120869001850177_n_jc1l25.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787735936/SaveClip.App_662474134_18394346401155858_673008633416247386_n_1_ejql9a.jpg"
+                ]
+              ],
               "videos": []
             }
           }
@@ -544,7 +719,7 @@
             "title": "Anuv Jain",
             "slug": "anuv-jain",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
               "images": [[], []],
@@ -555,10 +730,19 @@
             "title": "AP Dhillon",
             "slug": "ap-dhillon",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
-              "images": [[], []],
+              "images": [
+                [],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736018/SaveClip.App_649686692_17980807298810206_2816788826570908239_n_hysowo.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736021/SaveClip.App_656027857_18158042407442594_3576616703384923715_n_m8xjjx.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736026/SaveClip.App_659685441_18313257169281216_3591671814643246140_n_dvpohm.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736028/SaveClip.App_651910513_18176851882377716_7194526957858204505_n_e61vhq.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736032/SaveClip.App_645622142_17955822653936211_2173241703072136052_n_ibvspl.jpg"
+                ]
+              ],
               "videos": []
             }
           },
@@ -566,10 +750,18 @@
             "title": "Diljit Dosanjh",
             "slug": "diljit-dosanjh",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
-              "images": [[], []],
+              "images": [
+                [],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736108/SaveClip.App_656883514_18324430468249423_4748666973304946890_n_thlwtq.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736111/SaveClip.App_654610958_18147775699465139_1763434649963854244_n_b11myf.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736113/SaveClip.App_650398534_18011243042834046_4013835932580075557_n_tjnlch.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736118/SaveClip.App_656035922_18076425935392859_183745904577646974_n_phoj1f.jpg"
+                ]
+              ],
               "videos": []
             }
           },
@@ -577,18 +769,10 @@
             "title": "Hanumankind",
             "slug": "hanumankind",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
-              "images": [
-                [],
-                [
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786889296/SaveClip.App_557711682_18343873564164973_8323769285552738803_n_xsvgvt.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786889335/SaveClip.App_557553163_18343873573164973_3350751464860282106_n_d5pm0k.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786889342/SaveClip.App_523884725_18336744703164973_1478743264292435627_n_aewdwy.jpg",
-                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786889350/SaveClip.App_524157234_18336744721164973_2588849629157211151_n_mdvxaj.jpg"
-                ]
-              ],
+              "images": [[], [""]],
               "videos": []
             }
           },
@@ -600,8 +784,15 @@
             "media": {
               "logo": "",
               "images": [
-                [],
                 [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787724986/SaveClip.App_617418132_17910686529279027_6126185270141369520_n_yrjpin.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786889335/SaveClip.App_557553163_18343873573164973_3350751464860282106_n_d5pm0k.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787724984/HMK_02_mkmh3t.png",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786889296/SaveClip.App_557711682_18343873564164973_8323769285552738803_n_xsvgvt.jpg"
+                ],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787724986/SaveClip.App_617418132_17910686529279027_6126185270141369520_n_yrjpin.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787724984/HMK_02_mkmh3t.png",
                   "https://res.cloudinary.com/dhlowafw0/image/upload/v1786889296/SaveClip.App_557711682_18343873564164973_8323769285552738803_n_xsvgvt.jpg",
                   "https://res.cloudinary.com/dhlowafw0/image/upload/v1786889335/SaveClip.App_557553163_18343873573164973_3350751464860282106_n_d5pm0k.jpg",
                   "https://res.cloudinary.com/dhlowafw0/image/upload/v1786889342/SaveClip.App_523884725_18336744703164973_1478743264292435627_n_aewdwy.jpg",
@@ -615,21 +806,22 @@
             "title": "KR$NA",
             "slug": "krsna",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
-              "images": [[], []],
-              "videos": []
-            }
-          },
-          {
-            "title": "NAV",
-            "slug": "nav",
-            "caption": "Caption",
-            "description": "",
-            "media": {
-              "logo": "",
-              "images": [[], []],
+              "images": [
+                [],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736256/SaveClip.App_565606503_18346752532164973_3325390139470873888_n_o7mizz.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736265/SaveClip.App_565414630_18346604020164973_1081289174268848660_n_fdq7jr.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736262/SaveClip.App_568922154_18346752511164973_7631375469490563201_n_vweru8.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736259/SaveClip.App_566218358_18346752523164973_9045845626397631347_n_iyxkw4.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736254/SaveClip.App_566906932_18346604002164973_6344858871456316576_n_pdc3du.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736248/SaveClip.App_567960946_18346604038164973_3315399109305199367_n_lap0we.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736245/SaveClip.App_565511740_18346604029164973_1764499736909302004_n_zwxkvc.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736242/SaveClip.App_565599131_18346604011164973_7459600940943079375_n_jfzfvc.jpg"
+                ]
+              ],
               "videos": []
             }
           },
@@ -640,18 +832,47 @@
             "description": "Placeholder Description for now",
             "media": {
               "logo": "",
-              "images": [[], []],
+              "images": [
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787724599/SaveClip.App_698719609_18374737132164973_7497705523083435033_n_1_j0uopd.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787724592/SaveClip.App_601907831_18355003465164973_345679635738584968_n_vl5lli.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787724591/SaveClip.App_688996521_18374737141164973_8614825219767224033_n_giocxw.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787724593/SaveClip.App_673124282_18374737120164973_3262521612694155007_n_pkh04m.jpg"
+                ],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787724599/SaveClip.App_698719609_18374737132164973_7497705523083435033_n_1_j0uopd.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787724593/SaveClip.App_673124282_18374737120164973_3262521612694155007_n_pkh04m.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787724591/SaveClip.App_688996521_18374737141164973_8614825219767224033_n_giocxw.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787724592/SaveClip.App_601907831_18355003465164973_345679635738584968_n_vl5lli.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787724591/SaveClip.App_601339581_18355003528164973_2692669568928960983_n_wvkpnf.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787724590/SaveClip.App_601217156_18355003477164973_9131559978569567263_n_saip5g.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787724589/SaveClip.App_590957630_18355003510164973_8550193184568750955_n_lbmwdn.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787724588/SaveClip.App_590471452_18355003588164973_3274806801586866318_n_ul7fjh.jpg"
+                ]
+              ],
               "videos": []
             }
           },
           {
-            "title": "Tyre",
-            "slug": "tyre",
+            "title": "Tyla",
+            "slug": "tyla",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
-              "images": [[], []],
+              "images": [
+                [],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736425/SaveClip.App_588022782_18354002914164973_2549618067832394169_n_ozkjr8.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736403/SaveClip.App_587383804_18354002893164973_2275621835801555576_n_zzfptu.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736406/SaveClip.App_586685056_18354002902164973_4357900897566637324_n_zlrmuw.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736409/SaveClip.App_586709482_18354002884164973_7979040393470147792_n_beowws.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736412/SaveClip.App_588438684_18354002875164973_4743036361906407149_n_agxtmm.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736416/SaveClip.App_587023818_18354002866164973_5303706845895895223_n_p6fmji.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736419/SaveClip.App_589277660_18354002923164973_2433610856103675981_n_vrmuuj.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736422/SaveClip.App_587465685_18354002851164973_8627148583524075873_n_lfnyzf.jpg"
+                ]
+              ],
               "videos": []
             }
           },
@@ -659,10 +880,10 @@
             "title": "Yung Raja",
             "slug": "yung-raja",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
-              "images": [[], []],
+              "images": [[], [""]],
               "videos": []
             }
           }
@@ -676,7 +897,7 @@
             "title": "HSBC Bank",
             "slug": "hsbc-bank",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
               "images": [[], []],
@@ -687,7 +908,7 @@
             "title": "Tata Capital",
             "slug": "tata-capital",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
               "images": [[], []],
@@ -704,18 +925,32 @@
             "title": "Carillon Jewels",
             "slug": "carillon-jewels",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
-              "images": [[], []],
+              "images": [
+                [],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736701/SaveClip.App_482768739_18321901873164973_4861322323422158823_n_acivju.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736710/SaveClip.App_482774580_18321901882164973_7306676431909885546_n_gego2i.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736713/SaveClip.App_482602862_18321901846164973_2421785754430836524_n_cyou25.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736718/SaveClip.App_482695903_18321901855164973_8128415175867075582_n_zb6apy.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736721/SaveClip.App_482994995_18321901837164973_8348444694546792060_n_hazpj6.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736724/SaveClip.App_482657677_18321901795164973_5205444966290510470_n_h9vcnb.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736727/SaveClip.App_482723829_18321901825164973_5773975173999285587_n_pm07be.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736732/SaveClip.App_483131514_18321901909164973_1235750978477067828_n_c8vv9x.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736735/SaveClip.App_482919529_18321901900164973_4791838907870776390_n_f7fs1y.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736739/SaveClip.App_482751487_18321901891164973_7997428508198867945_n_xbvr3d.jpg"
+                ]
+              ],
               "videos": []
             }
           },
           {
-            "title": "Chheda Jewelleries",
+            "title": "Chedda Jewelleries",
             "slug": "chheda-jewelleries",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
               "images": [[], []],
@@ -726,7 +961,7 @@
             "title": "Signi Jewellery",
             "slug": "signi-jewellery",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
               "images": [[], []],
@@ -741,7 +976,12 @@
             "media": {
               "logo": "",
               "images": [
-                [],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807641/SaveClip.App_769412423_18385471114164973_1027758382190419445_n_zwfqwq.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807639/SaveClip.App_768567746_18385471075164973_7220333140898827325_n_qcftkm.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807637/SaveClip.App_768016447_18385471009164973_6863721173634441728_n_xic3le.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807635/SaveClip.App_767101511_18385471105164973_9075345503994255311_n_ywbcr3.jpg"
+                ],
                 [
                   "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807641/SaveClip.App_769412423_18385471114164973_1027758382190419445_n_zwfqwq.jpg",
                   "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807639/SaveClip.App_768567746_18385471075164973_7220333140898827325_n_qcftkm.jpg",
@@ -765,10 +1005,22 @@
             "title": "Bastian",
             "slug": "bastian",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
-              "images": [[], []],
+              "images": [
+                [],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736851/SaveClip.App_634225189_18363124144164973_6328611728223852678_n_rcvygg.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736854/SaveClip.App_632026340_18363124117164973_5354295905631766127_n_hmxez5.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736857/SaveClip.App_631662942_18363124105164973_7883988366741284749_n_lmde6y.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736868/SaveClip.App_632430976_18363124096164973_4518304539143250144_n_kzqrkz.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736874/SaveClip.App_632554972_18363124126164973_4861461830205652549_n_lsyq8r.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736883/SaveClip.App_631790429_18363124087164973_5458675332393425211_n_v5pz1c.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736887/SaveClip.App_630121769_18363124054164973_913938715844208416_n_s7yrvt.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736895/SaveClip.App_632656572_18363124153164973_401055732520516220_n_uefqji.jpg"
+                ]
+              ],
               "videos": []
             }
           }
@@ -782,10 +1034,17 @@
             "title": "Colgate",
             "slug": "colgate",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
-              "images": [[], []],
+              "images": [
+                [],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736949/colgate_3_ykzguw.png",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736957/colgate_2_evhlpo.png",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736962/colgate_1_jojlnd.png"
+                ]
+              ],
               "videos": []
             }
           },
@@ -793,7 +1052,7 @@
             "title": "Kylie Cosmetics",
             "slug": "kylie-cosmetics",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
               "images": [[], []],
@@ -802,9 +1061,9 @@
           },
           {
             "title": "Lakmé",
-            "slug": "lakm",
+            "slug": "lakme",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
               "images": [[], []],
@@ -812,10 +1071,10 @@
             }
           },
           {
-            "title": "Mcaffeine",
-            "slug": "mcaffeine",
+            "title": "Meraki",
+            "slug": "meraki",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
               "images": [[], []],
@@ -826,7 +1085,7 @@
             "title": "Personal Touch",
             "slug": "personal-touch",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
               "images": [[], []],
@@ -841,7 +1100,12 @@
             "media": {
               "logo": "",
               "images": [
-                [],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786889028/SaveClip.App_555491406_18343586980164973_3264193690736107502_n_tcizbk.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786889031/SaveClip.App_558162194_17939849484076576_1912248498444912025_n_s6oim2.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786889041/SaveClip.App_554997678_18343586956164973_6965635420383988642_n_dpfoq3.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786889047/SaveClip.App_554977320_18343586989164973_2672932247180156710_n_ydkl4z.jpg"
+                ],
                 [
                   "https://res.cloudinary.com/dhlowafw0/image/upload/v1786889028/SaveClip.App_555491406_18343586980164973_3264193690736107502_n_tcizbk.jpg",
                   "https://res.cloudinary.com/dhlowafw0/image/upload/v1786889031/SaveClip.App_558162194_17939849484076576_1912248498444912025_n_s6oim2.jpg",
@@ -862,7 +1126,7 @@
             "title": "AJIO",
             "slug": "ajio",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
               "images": [
@@ -889,7 +1153,12 @@
             "media": {
               "logo": "",
               "images": [
-                [],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786808159/SaveClip.App_526362655_18337044328164973_558656474525280505_n_dpfi5f.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786808157/SaveClip.App_524930206_18337044358164973_2674300804169792179_n_abjhaa.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786808176/SaveClip.App_526749172_18337044376164973_2045088222079068237_n_fs665l.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786808155/SaveClip.App_526370019_18337044310164973_2926734127794905792_n_uqoime.jpg"
+                ],
                 [
                   "https://res.cloudinary.com/dhlowafw0/image/upload/v1786808170/SaveClip.App_525523150_18337044367164973_8136660913018433670_n_zbtyjv.jpg",
                   "https://res.cloudinary.com/dhlowafw0/image/upload/v1786808179/SaveClip.App_525698688_18337044319164973_8144089673895958583_n_ozrn7q.jpg",
@@ -908,7 +1177,7 @@
             "title": "Nykaa",
             "slug": "nykaa",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
               "images": [[], []],
@@ -919,10 +1188,17 @@
             "title": "Vogue",
             "slug": "vogue",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
-              "images": [[], []],
+              "images": [
+                [],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787737078/MK1_3_hagco4.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787737081/MK1_2_jrloob.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787737089/MK1_1_glpayv.jpg"
+                ]
+              ],
               "videos": []
             }
           }
@@ -936,18 +1212,7 @@
             "title": "American Tourister",
             "slug": "american-tourister",
             "caption": "Caption",
-            "description": "",
-            "media": {
-              "logo": "",
-              "images": [[], []],
-              "videos": []
-            }
-          },
-          {
-            "title": "G-SHOCK",
-            "slug": "g-shock",
-            "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
               "images": [[], []],
@@ -961,7 +1226,15 @@
             "description": "Placeholder Description for now",
             "media": {
               "logo": "",
-              "images": [[], []],
+              "images": [
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787712417/hf_20260818_045341_ed47e8a3-e005-4a62-b022-84568f4a1d98_saabje.png",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787712416/hf_20260818_050309_03012143-60ed-4b88-a70c-8cfd2c8a65b4_dw2jle.png",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787712417/hf_20260818_045757_1f42ec33-6a23-4bd1-b1f7-b3f640fe27f3_vs9k4s.png",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1787712416/hf_20260818_050241_80e41c98-c5e3-4d44-81ca-07670145462e_j9dxxh.png"
+                ],
+                []
+              ],
               "videos": []
             }
           },
@@ -969,7 +1242,7 @@
             "title": "Lenskart",
             "slug": "lenskart",
             "caption": "Caption",
-            "description": "",
+            "description": "Placeholder Description for now",
             "media": {
               "logo": "",
               "images": [[], []],
@@ -984,7 +1257,12 @@
             "media": {
               "logo": "",
               "images": [
-                [],
+                [
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807820/SaveClip.App_552940920_18343386877164973_5617337783419739608_n_wxvzgl.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807815/SaveClip.App_552186318_18343386934164973_7236474893167657105_n_yrzm6g.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807826/SaveClip.App_553369589_18343386904164973_4402585375403618753_n_1_hoap6b.jpg",
+                  "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807816/SaveClip.App_553369482_18343386925164973_8556083796393113681_n_noadmj.jpg"
+                ],
                 [
                   "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807826/SaveClip.App_553369589_18343386904164973_4402585375403618753_n_1_hoap6b.jpg",
                   "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807824/SaveClip.App_553367910_18343386853164973_2349735157828392993_n_hamuwt.jpg",

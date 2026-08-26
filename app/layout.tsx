@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import localFont from "next/font/local";
 import { Noto_Serif } from "next/font/google";
+import Script from "next/script";
 import { Footer, Navbar } from "@/components";
 import { INTRO_BOOT_SCRIPT } from "@/lib/intro";
 import "./globals.css";
@@ -49,10 +50,10 @@ export default function RootLayout({
       lang="en"
       className={`${helvetica.variable} ${notoSerif.variable} h-full antialiased`}
     >
-      <head>
-        <script dangerouslySetInnerHTML={{ __html: INTRO_BOOT_SCRIPT }} />
-      </head>
       <body className="flex min-h-full flex-col bg-bg font-sans text-body antialiased">
+        <Script id="intro-boot" strategy="beforeInteractive">
+          {INTRO_BOOT_SCRIPT}
+        </Script>
         <Navbar />
         {children}
         <Footer />

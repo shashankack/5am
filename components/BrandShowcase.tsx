@@ -90,7 +90,7 @@ export function BrandShowcase({ brand }: BrandShowcaseProps) {
                     alt={`${brand.title} — ${index + 1}`}
                     fill
                     sizes="(min-width: 768px) 40vw, 50vw"
-                    className="object-cover"
+                    className="object-cover object-top"
                   />
                 </div>
               ))
