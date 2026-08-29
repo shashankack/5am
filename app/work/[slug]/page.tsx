@@ -18,11 +18,11 @@ export async function generateMetadata({
   const brand = getBrandBySlug(slug);
 
   if (!brand) {
-    return { title: "Not found — 5AM" };
+    return { title: "Not found | 5AM" };
   }
 
   return {
-    title: `${brand.title} — 5AM`,
+    title: `${brand.title} | 5AM`,
     description: brand.caption || brand.description,
   };
 }

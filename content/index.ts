@@ -4,7 +4,12 @@ import en from "./en.json";
 export const content = en as Content;
 
 export function getCategories(): Category[] {
-  return content.clients.categories;
+  return content.clients.categories.map((category) => ({
+    ...category,
+    brands: [...category.brands].sort((a, b) =>
+      a.title.localeCompare(b.title, undefined, { sensitivity: "base" }),
+    ),
+  }));
 }
 
 export function getLandingSections(): LandingSection[] {
@@ -33,12 +38,12 @@ function imageGroup(brand: Brand, index: number): string[] {
   );
 }
 
-/** Landing grid — first sub-array. */
+/** Landing grid   first sub-array. */
 export function getShowcaseImages(brand: Brand): string[] {
   return imageGroup(brand, 0).slice(0, 4);
 }
 
-/** Case-study page — second sub-array. */
+/** Case-study page   second sub-array. */
 export function getDetailImages(brand: Brand): string[] {
   return imageGroup(brand, 1);
 }

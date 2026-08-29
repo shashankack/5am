@@ -48,7 +48,7 @@ export const Footer: React.FC = () => {
       <div className="mx-auto flex max-w-3xl flex-col items-center text-center font-sans text-heading">
         <p className="text-base md:text-lg">Thank you for your time.</p>
         <p className="mt-2 text-sm md:text-[15px]">
-          © 2026, 5am Labs, All rights reserved.
+          © 2026, 5amLabs, All rights reserved.
         </p>
         <a
           href={`mailto:${EMAIL}`}

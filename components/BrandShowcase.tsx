@@ -12,7 +12,7 @@ type BrandShowcaseProps = {
   brand: Brand;
 };
 
-/** Max shift in px — opposite to cursor */
+/** Max shift in px   opposite to cursor */
 const MAX_SHIFT = 8;
 
 export function BrandShowcase({ brand }: BrandShowcaseProps) {
@@ -87,7 +87,7 @@ export function BrandShowcase({ brand }: BrandShowcaseProps) {
                 >
                   <MediaImage
                     src={src}
-                    alt={`${brand.title} — ${index + 1}`}
+                    alt={`${brand.title}   ${index + 1}`}
                     fill
                     sizes="(min-width: 768px) 40vw, 50vw"
                     className="object-cover object-top"

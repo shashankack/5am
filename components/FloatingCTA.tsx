@@ -27,7 +27,7 @@ export function FloatingCTA({ visible }: FloatingCTAProps) {
         </Link>
 
         <Link
-          href="mailto:hello@5am.studio"
+          href="/#inquiry"
           className="group inline-flex shrink-0 items-center gap-2.5 rounded-xl bg-heading px-4 py-2 text-bg transition-colors duration-150 ease-out hover:bg-bg hover:text-heading md:px-5 md:py-2.5"
         >
           <span

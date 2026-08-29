@@ -2,7 +2,7 @@ import type { ImageLoaderProps } from "next/image";
 
 const CLOUD_NAME = process.env.NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME ?? "";
 
-/** Built Cloudinary URLs — avoid rebuilding the same transform string. */
+/** Built Cloudinary URLs   avoid rebuilding the same transform string. */
 const urlCache = new Map<string, string>();
 
 export function isCloudinarySrc(src: string): boolean {

@@ -1,4 +1,9 @@
-import { HeroVideo, IntroExperience, LandingSection } from "@/components";
+import {
+  HeroVideo,
+  InquiryForm,
+  IntroExperience,
+  LandingSection,
+} from "@/components";
 import { getLandingSections } from "@/content";
 
 export default function Home() {
@@ -23,6 +28,7 @@ export default function Home() {
             showCategories={index === rest.length - 1}
           />
         ))}
+        <InquiryForm />
       </IntroExperience>
     </main>
   );

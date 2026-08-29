@@ -95,7 +95,7 @@ function MediaFrame({
         {item.type === "image" ? (
           <MediaImage
             src={item.src}
-            alt={`${brandTitle} — ${index + 1}`}
+            alt={`${brandTitle}   ${index + 1}`}
             width={1600}
             height={1200}
             sizes="(min-width: 768px) 50vw, 100vw"
