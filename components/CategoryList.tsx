@@ -4,7 +4,7 @@ import { Plus } from "lucide-react";
 import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
 import type { Category } from "@/content/types";
-import { gsap } from "@/lib/gsap";
+import { gsap, ScrollTrigger } from "@/lib/gsap";
 import { Reveal } from "./Reveal";
 
 type CategoryListProps = {
@@ -30,13 +30,9 @@ export function CategoryList({
     if (!list) return;
 
     categories.forEach((category) => {
-      const panel = list.querySelector<HTMLElement>(
-        `[data-category="${category.slug}"] [data-panel]`,
-      );
       const icon = list.querySelector<HTMLElement>(
         `[data-category="${category.slug}"] [data-icon]`,
       );
-      if (panel) gsap.set(panel, { height: 0 });
       if (icon) gsap.set(icon, { rotation: 0, transformOrigin: "50% 50%" });
     });
   }, [categories]);
@@ -72,10 +68,11 @@ export function CategoryList({
         gsap.set(parts.panel, { height: 0 });
         gsap.set(parts.brands, { clearProps: "opacity,transform" });
         gsap.set(parts.icon, { rotation: 0 });
+        ScrollTrigger.refresh();
         return;
       }
 
-      const tl = gsap.timeline();
+      const tl = gsap.timeline({ onComplete: () => ScrollTrigger.refresh() });
       tl.to(
         parts.brands,
         {
@@ -117,6 +114,7 @@ export function CategoryList({
         gsap.set(parts.panel, { height: "auto" });
         gsap.set(parts.brands, { clearProps: "opacity,transform" });
         gsap.set(parts.icon, { rotation: 45 });
+        ScrollTrigger.refresh();
         return;
       }
 
@@ -135,6 +133,7 @@ export function CategoryList({
           onComplete: () => {
             // Keep in sync with content if fonts/images shift layout
             gsap.set(parts.panel, { height: "auto" });
+            ScrollTrigger.refresh();
           },
         },
         0,
@@ -222,7 +221,7 @@ export function CategoryList({
                   role="region"
                   aria-labelledby={buttonId}
                   data-panel
-                  className="overflow-hidden"
+                  className="h-0 overflow-hidden"
                   inert={!isOpen ? true : undefined}
                 >
                   <ul className="flex flex-col gap-3 pb-6 md:gap-4 md:pb-8">
