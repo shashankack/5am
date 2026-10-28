@@ -4,7 +4,7 @@ export { CategoryList } from "./CategoryList";
 export { FloatingCTA } from "./FloatingCTA";
 export { Footer } from "./Footer";
 export { HeroVideo } from "./HeroVideo";
-export { InquiryForm } from "./InquiryForm";
+export { InquiryForm, InquiryModal } from "./InquiryForm";
 export { IntroExperience } from "./IntroExperience";
 export { LandingSection } from "./LandingSection";
 export { MediaImage } from "./MediaImage";

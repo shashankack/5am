@@ -1,5 +1,6 @@
 "use client";
 
+import { Plus } from "lucide-react";
 import Link from "next/link";
 import { useEffect, useRef, useState } from "react";
 import type { Category } from "@/content/types";
@@ -209,10 +210,10 @@ export function CategoryList({
                   </span>
                   <span
                     data-icon
-                    className="inline-block text-lg leading-none text-body will-change-transform"
+                    className="inline-flex text-body will-change-transform"
                     aria-hidden
                   >
-                    +
+                    <Plus strokeWidth={1.5} className="size-4 md:size-[18px]" />
                   </span>
                 </button>
 

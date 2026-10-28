@@ -21,14 +21,14 @@ export default function Home() {
           ) : null
         }
       >
-        {rest.map((section, index) => (
+        {rest.map((section) => (
           <LandingSection
             key={section.id}
             section={section}
-            showCategories={index === rest.length - 1}
+            showCategories={section.id === "we-create-campaigns"}
           />
         ))}
-        <InquiryForm />
+        {/* <InquiryForm /> */}
       </IntroExperience>
     </main>
   );

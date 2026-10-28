@@ -24,6 +24,26 @@ export function getBrandBySlug(slug: string): Brand | undefined {
   return getAllBrands().find((brand) => brand.slug === slug);
 }
 
+export function getBrandCategory(slug: string): Category | undefined {
+  return getCategories().find((category) =>
+    category.brands.some((brand) => brand.slug === slug),
+  );
+}
+
+/** Neighbours within the brand's category, wrapping at the ends. */
+export function getAdjacentBrands(
+  slug: string,
+): { prev: Brand; next: Brand } | null {
+  const brands = getBrandCategory(slug)?.brands ?? [];
+  const index = brands.findIndex((brand) => brand.slug === slug);
+  if (index === -1 || brands.length < 2) return null;
+
+  return {
+    prev: brands[(index - 1 + brands.length) % brands.length],
+    next: brands[(index + 1) % brands.length],
+  };
+}
+
 export function getBrandsBySlugs(slugs: string[]): Brand[] {
   return slugs
     .map((slug) => getBrandBySlug(slug))

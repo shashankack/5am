@@ -5,6 +5,10 @@ import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
 import { FloatingCTA } from "./FloatingCTA";
 import { NAVBAR_ID } from "@/lib/intro";
+import {
+  consumeHomeScrollRestore,
+  saveHomeScroll,
+} from "@/lib/scroll-memory";
 
 /** Pixels scrolled before the navbar becomes solid */
 export const NAVBAR_SOLID_SCROLL_THRESHOLD = 700;
@@ -17,12 +21,22 @@ export function Navbar() {
   useEffect(() => {
     const update = () => {
       setScrolled(window.scrollY >= NAVBAR_SOLID_SCROLL_THRESHOLD);
+      if (window.location.pathname === "/") saveHomeScroll(window.scrollY);
     };
+
+    if (isHome) {
+      const y = consumeHomeScrollRestore();
+      if (y !== null) {
+        requestAnimationFrame(() =>
+          window.scrollTo({ top: y, behavior: "instant" }),
+        );
+      }
+    }
 
     update();
     window.addEventListener("scroll", update, { passive: true });
     return () => window.removeEventListener("scroll", update);
-  }, []);
+  }, [isHome]);
 
   const solid = !isHome || scrolled;
   const logoColor = solid ? "text-heading" : "text-bg";

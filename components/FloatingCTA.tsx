@@ -1,44 +1,59 @@
 "use client";
 
-import Link from "next/link";
+import { useCallback, useId, useState } from "react";
+import { InquiryModal } from "./InquiryForm";
 
 type FloatingCTAProps = {
   visible: boolean;
 };
 
 export function FloatingCTA({ visible }: FloatingCTAProps) {
-  return (
-    <div
-      className={[
-        "fixed inset-x-0 bottom-0 z-[110] flex justify-center px-4 pb-[max(1.25rem,env(safe-area-inset-bottom))] md:pb-6",
-        "transition-transform duration-300 ease-[cubic-bezier(0.22,1,0.36,1)]",
-        visible
-          ? "translate-y-0"
-          : "pointer-events-none translate-y-[calc(100%+2rem)]",
-      ].join(" ")}
-      aria-hidden={!visible}
-    >
-      <div className="flex w-full max-w-xl items-center justify-between gap-6 rounded-xl bg-heading/8 py-1.5 pr-1.5 pl-5 shadow-sm backdrop-blur-sm md:gap-10 md:pl-6">
-        <Link
-          href="/"
-          className="shrink-0 font-sans text-xs tracking-tight text-heading md:text-sm"
-        >
-          <span className="font-bold">5</span>amLabs.
-        </Link>
+  const [open, setOpen] = useState(false);
+  const dialogId = useId();
+  const onClose = useCallback(() => setOpen(false), []);
+  const shown = visible && !open;
 
-        <Link
-          href="/#inquiry"
-          className="group inline-flex shrink-0 items-center gap-2.5 rounded-xl bg-heading px-4 py-2 text-bg transition-colors duration-150 ease-out hover:bg-bg hover:text-heading md:px-5 md:py-2.5"
+  return (
+    <>
+      <div
+        className={[
+          "fixed z-[110] transition-transform duration-300 ease-[cubic-bezier(0.22,1,0.36,1)]",
+          "right-[max(1rem,env(safe-area-inset-right))] bottom-[max(1rem,env(safe-area-inset-bottom))]",
+          "md:top-1/2 md:right-0 md:bottom-auto md:pr-[env(safe-area-inset-right)]",
+          shown
+            ? "translate-y-0 md:-translate-y-1/2 md:translate-x-0"
+            : "pointer-events-none translate-y-[calc(100%+2rem)] md:-translate-y-1/2 md:translate-x-full",
+        ].join(" ")}
+        aria-hidden={!shown}
+      >
+        <button
+          type="button"
+          onClick={() => setOpen(true)}
+          aria-haspopup="dialog"
+          aria-expanded={open}
+          aria-controls={dialogId}
+          tabIndex={shown ? 0 : -1}
+          className={[
+            "group flex cursor-pointer items-center gap-2.5 bg-heading text-bg ring-1 ring-heading",
+            "shadow-[0_12px_40px_-16px_rgba(0,0,0,0.45)]",
+            "transition-[background-color,color,transform] duration-200 ease-out",
+            "focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-heading",
+            "min-h-12 rounded-full px-5 active:scale-[0.97]",
+            "md:min-h-0 md:min-w-11 md:flex-col md:gap-3 md:rounded-l-2xl md:rounded-r-none md:px-3 md:py-6",
+            "md:hover:bg-bg md:hover:text-heading md:active:scale-100",
+          ].join(" ")}
         >
           <span
-            className="size-1.5 shrink-0 rounded-full bg-bg transition-colors duration-150 ease-out group-hover:bg-heading md:size-2"
+            className="size-1.5 shrink-0 rounded-full bg-bg transition-colors duration-200 ease-out md:size-2 md:group-hover:bg-heading"
             aria-hidden
           />
-          <span className="font-heading text-xs whitespace-nowrap md:text-sm">
-            Become A Client
+          <span className="font-heading text-sm whitespace-nowrap md:rotate-180 md:tracking-[0.14em] md:[writing-mode:vertical-rl]">
+            Become a Client
           </span>
-        </Link>
+        </button>
       </div>
-    </div>
+
+      <InquiryModal id={dialogId} open={open} onClose={onClose} />
+    </>
   );
 }
