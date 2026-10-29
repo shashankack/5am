@@ -402,23 +402,25 @@ const Dither = ({
   settingsRef.current = settings;
 
   useEffect(() => {
-    const container = containerRef.current;
-    const canvas = canvasRef.current;
-    if (!container || !canvas) return undefined;
+    const hostEl = containerRef.current;
+    const surfaceEl = canvasRef.current;
+    if (!hostEl || !surfaceEl) return undefined;
+    const host: HTMLDivElement = hostEl;
+    const surface: HTMLCanvasElement = surfaceEl;
 
     let cancelled = false;
     let started = false;
     let stop: (() => void) | undefined;
     const waitForSize = new ResizeObserver(() => start());
-    waitForSize.observe(container);
+    waitForSize.observe(host);
 
     function start() {
     if (cancelled || started) return;
-    if (container.clientWidth < 2 || container.clientHeight < 2) return;
+    if (host.clientWidth < 2 || host.clientHeight < 2) return;
     started = true;
     waitForSize.disconnect();
 
-    const gl = canvas.getContext('webgl2', {
+    const gl = surface.getContext('webgl2', {
       alpha: true,
       premultipliedAlpha: true,
       antialias: false,
@@ -427,7 +429,7 @@ const Dither = ({
     });
     if (!gl) {
       started = false;
-      waitForSize.observe(container);
+      waitForSize.observe(host);
       return;
     }
 
@@ -435,7 +437,7 @@ const Dither = ({
     const dither = link(gl, DITHER_FRAGMENT);
     if (!wave || !dither) {
       started = false;
-      waitForSize.observe(container);
+      waitForSize.observe(host);
       return;
     }
 
@@ -498,8 +500,8 @@ const Dither = ({
       const s = settingsRef.current;
       view.cell = Math.max(1, Math.round(s.pixelSize * view.ratio));
       view.cellCss = view.cell / view.ratio;
-      view.cols = Math.max(1, Math.ceil(canvas.width / view.cell));
-      view.rows = Math.max(1, Math.ceil(canvas.height / view.cell));
+      view.cols = Math.max(1, Math.ceil(surface.width / view.cell));
+      view.rows = Math.max(1, Math.ceil(surface.height / view.cell));
       gl.bindTexture(gl.TEXTURE_2D, field);
       gl.texImage2D(gl.TEXTURE_2D, 0, gl.RGBA8, view.cols, view.rows, 0, gl.RGBA, gl.UNSIGNED_BYTE, null);
       gl.bindFramebuffer(gl.FRAMEBUFFER, framebuffer);
@@ -537,7 +539,7 @@ const Dither = ({
       gl.viewport(0, 0, view.cols, view.rows);
       gl.useProgram(wave.program);
       const w = wave.uniforms;
-      gl.uniform2f(w.uResolution, canvas.width / view.ratio, canvas.height / view.ratio);
+      gl.uniform2f(w.uResolution, surface.width / view.ratio, surface.height / view.ratio);
       gl.uniform1f(w.uCell, view.cellCss);
       gl.uniform1f(w.uTime, state.time);
       gl.uniform1f(w.uWaveSpeed, s.waveSpeed);
@@ -558,7 +560,7 @@ const Dither = ({
       gl.drawArrays(gl.TRIANGLES, 0, 3);
 
       gl.bindFramebuffer(gl.FRAMEBUFFER, null);
-      gl.viewport(0, 0, canvas.width, canvas.height);
+      gl.viewport(0, 0, surface.width, surface.height);
       gl.useProgram(dither.program);
       const d = dither.uniforms;
       gl.activeTexture(gl.TEXTURE0);
@@ -640,14 +642,14 @@ const Dither = ({
 
     const resize = () => {
       const s = settingsRef.current;
-      const width = Math.max(1, container.clientWidth);
-      const height = Math.max(1, container.clientHeight);
+      const width = Math.max(1, host.clientWidth);
+      const height = Math.max(1, host.clientHeight);
       const ratio = Math.min(s.dpr || window.devicePixelRatio || 1, 2);
       view.width = width;
       view.height = height;
-      canvas.width = Math.max(1, Math.round(width * ratio));
-      canvas.height = Math.max(1, Math.round(height * ratio));
-      view.ratio = canvas.width / width;
+      surface.width = Math.max(1, Math.round(width * ratio));
+      surface.height = Math.max(1, Math.round(height * ratio));
+      view.ratio = surface.width / width;
       if (width > 1 && height > 1) visible = true;
       allocate();
       render();
@@ -655,7 +657,7 @@ const Dither = ({
     };
 
     const locate = (event: PointerEvent) => {
-      const rect = container.getBoundingClientRect();
+      const rect = host.getBoundingClientRect();
       pointer.x = event.clientX - rect.left;
       pointer.y = event.clientY - rect.top;
       pointer.inside = pointer.x >= 0 && pointer.y >= 0 && pointer.x <= rect.width && pointer.y <= rect.height;
@@ -696,9 +698,9 @@ const Dither = ({
     };
 
     const resizeObserver = new ResizeObserver(resize);
-    resizeObserver.observe(container);
+    resizeObserver.observe(host);
     const intersection = new IntersectionObserver(entries => {
-      const entry = entries.find(item => item.target === container) ?? entries[0];
+      const entry = entries.find(item => item.target === host) ?? entries[0];
       if (!entry) return;
       // Client navigations can observe a 0×0 box first; ignore that so the
       // wave loop is not paused before layout.
@@ -709,7 +711,7 @@ const Dither = ({
         wake();
       }
     });
-    intersection.observe(container);
+    intersection.observe(host);
     window.addEventListener('pointermove', onPointerMove, { passive: true });
     window.addEventListener('pointerdown', onPointerDown, { passive: true });
     window.addEventListener('pointerup', onPointerUp, { passive: true });
