@@ -1,9 +1,8 @@
-import {
-  HeroVideo,
-  InquiryForm,
-  IntroExperience,
-  LandingSection,
-} from "@/components";
+import { HeroVideo } from "@/components/HeroVideo";
+import { InquiryForm } from "@/components/InquiryForm";
+import { IntroExperience } from "@/components/IntroExperience";
+import { LandingSection } from "@/components/LandingSection";
+import { LogoSlider } from "@/components/LogoSlider";
 import { getLandingSections } from "@/content";
 
 export default function Home() {
@@ -21,6 +20,7 @@ export default function Home() {
           ) : null
         }
       >
+        <LogoSlider draggable={false} />
         {rest.map((section) => (
           <LandingSection
             key={section.id}
@@ -28,7 +28,7 @@ export default function Home() {
             showCategories={section.id === "we-create-campaigns"}
           />
         ))}
-        {/* <InquiryForm /> */}
+        <InquiryForm />
       </IntroExperience>
     </main>
   );

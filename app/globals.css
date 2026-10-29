@@ -41,6 +41,17 @@
     font-family: var(--font-heading);
   }
 
+  /* Hide navbar until the intro finishes (or motion is reduced) */
+  html.intro-pending #site-navbar {
+    transform: translate3d(0, -100%, 0);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html.intro-pending #site-navbar {
+      transform: none;
+    }
+  }
+
   /* Keeps navbar visible after GSAP context revert post-intro */
   #site-navbar.nav-in {
     transform: translate3d(0, 0, 0);

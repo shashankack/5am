@@ -1,7 +1,17 @@
 "use client";
 
 import { X } from "lucide-react";
-import { FormEvent, useEffect, useId, useRef, useState } from "react";
+import {
+  createContext,
+  FormEvent,
+  useCallback,
+  useContext,
+  useEffect,
+  useId,
+  useRef,
+  useState,
+  type ReactNode,
+} from "react";
 import { gsap } from "@/lib/gsap";
 import { Reveal } from "./Reveal";
 
@@ -247,4 +257,37 @@ export function InquiryModal({ id, open, onClose }: InquiryModalProps) {
       </div>
     </dialog>
   );
+}
+
+type InquiryContextValue = {
+  open: boolean;
+  dialogId: string;
+  openInquiry: () => void;
+  closeInquiry: () => void;
+};
+
+const InquiryContext = createContext<InquiryContextValue | null>(null);
+
+export function InquiryProvider({ children }: { children: ReactNode }) {
+  const [open, setOpen] = useState(false);
+  const dialogId = useId();
+  const openInquiry = useCallback(() => setOpen(true), []);
+  const closeInquiry = useCallback(() => setOpen(false), []);
+
+  return (
+    <InquiryContext.Provider
+      value={{ open, dialogId, openInquiry, closeInquiry }}
+    >
+      {children}
+      <InquiryModal id={dialogId} open={open} onClose={closeInquiry} />
+    </InquiryContext.Provider>
+  );
+}
+
+export function useInquiry() {
+  const value = useContext(InquiryContext);
+  if (!value) {
+    throw new Error("useInquiry must be used within InquiryProvider");
+  }
+  return value;
 }

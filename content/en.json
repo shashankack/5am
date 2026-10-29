@@ -305,6 +305,39 @@
               "images": [[], []],
               "videos": []
             }
+          },
+          {
+            "title": "Vero Moda x Lisa Ray",
+            "slug": "vero-moda-x-lisa-ray",
+            "caption": "Contemporary fashion x screen icon",
+            "description": "Vero Moda with Lisa Ray, pairing a global high-street label with one of India's most enduring style names. The imagery set out to show easy, confident womenswear worn with real presence.\nFrom concept to final delivery, the production was shaped around ease and polish: clean light, relaxed styling and frames that let the clothes and the woman wearing them lead.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "YSL",
+            "slug": "ysl",
+            "caption": "Parisian luxury x modern attitude",
+            "description": "Yves Saint Laurent, the Parisian house defined by bold elegance and a rebellious spirit. The imagery set out to capture that sensibility with sharp, assured visuals.\nFrom concept to final delivery, the production was shaped around craft and restraint: precise light, considered styling and frames that hold the detail of every piece.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "DCA x Michael Kors",
+            "slug": "dca-x-michael-kors",
+            "caption": "Designer luxury x fashion programme",
+            "description": "DCA with Michael Kors, bringing the American luxury brand into a considered fashion programme. The imagery set out to show polished, jet-set style with confidence.\nFrom concept to final delivery, the production was shaped around craft and finish: precise light, refined styling and frames that hold the detail of every piece.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
           }
         ]
       },
@@ -529,6 +562,105 @@
                   "https://res.cloudinary.com/dhlowafw0/image/upload/v1787734176/RS0718_uh0ssd.jpg"
                 ]
               ],
+              "videos": []
+            }
+          },
+          {
+            "title": "Lotto",
+            "slug": "lotto",
+            "caption": "Italian sportswear x street style",
+            "description": "Lotto, the Italian sportswear heritage brand, brought into a fresh and contemporary frame. The imagery set out to show footwear and apparel with energy and a clear point of view.\nFrom concept to final delivery, the production was shaped around movement and detail: crisp lighting, confident styling and frames that hold the product and the attitude behind it.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Aldo x Vedang Raina",
+            "slug": "aldo-x-vedang-raina",
+            "caption": "Footwear x young talent",
+            "description": "Aldo with Vedang Raina, bringing a fashion-forward footwear label together with one of the most watched young faces in Indian entertainment. The imagery set out to show style that feels natural and unforced.\nFrom concept to final delivery, the production was shaped around simplicity and edge: considered styling, strong light and frames that keep the focus on the shoe and the person.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Puma x KL Rahul & Shanaya Kapoor",
+            "slug": "puma-x-kl-rahul-and-shanaya-kapoor",
+            "caption": "Sportswear x sport and screen talent",
+            "description": "Puma with KL Rahul and Shanaya Kapoor, two campaigns bringing a global sportswear leader together with a cricketer and an actor. The imagery set out to show performance and street style living in the same frame.\nFrom concept to final delivery, the production was shaped around energy and clarity: dynamic light, bold styling and frames that carry the movement of the brand.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Zudio",
+            "slug": "zudio",
+            "caption": "Everyday fashion at scale",
+            "description": "Zudio, one of India's fastest-growing fashion retailers, known for trend-led style at accessible prices. The imagery set out to show a wide range of looks with freshness and personality.\nFrom concept to final delivery, the production was shaped around range and rhythm: bright, clean light, playful styling and frames that make every piece feel desirable.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Crocs",
+            "slug": "crocs",
+            "caption": "Comfort x self-expression",
+            "description": "Crocs, the globally recognised footwear brand built on comfort and individuality. The imagery set out to show the brand with colour, humour and a youthful spirit.\nFrom concept to final delivery, the production was shaped around fun and personality: vivid colour, relaxed styling and frames that celebrate the product without taking it too seriously.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Home Grown",
+            "slug": "home-grown",
+            "caption": "Homegrown style, global outlook",
+            "description": "Home Grown, a brand rooted in Indian design with a contemporary point of view. The imagery set out to show craft and modern style living together.\nFrom concept to final delivery, the production was shaped around authenticity and restraint: natural light, thoughtful styling and frames that let texture and detail speak.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Ramraj Cotton",
+            "slug": "ramraj-cotton",
+            "caption": "Heritage whites, everyday dignity",
+            "description": "Ramraj Cotton, the South Indian brand synonymous with traditional white dhotis and shirts. The imagery set out to show heritage dressing with pride and modern relevance.\nFrom concept to final delivery, the production was shaped around tradition and clarity: clean light, simple styling and frames that honour the fabric and the culture behind it.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "XYXX x KL Rahul",
+            "slug": "xyxx-x-kl-rahul",
+            "caption": "Innerwear x cricket",
+            "description": "XYXX with KL Rahul, bringing a modern menswear and innerwear label together with one of India's best-known cricketers. The imagery set out to show comfort, confidence and an athlete at ease.\nFrom concept to final delivery, the production was shaped around ease and strength: clean light, minimal styling and frames that feel honest and direct.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Youva x Kartik Aaryan & Ananya Panday",
+            "slug": "youva-x-kartik-aaryan-and-ananya-panday",
+            "caption": "Youth lifestyle x screen stars",
+            "description": "Youva with Kartik Aaryan and Ananya Panday, bringing two of Hindi cinema's most popular young stars into one campaign. The imagery set out to show youthful energy and chemistry.\nFrom concept to final delivery, the production was shaped around spirit and polish: bright light, playful styling and frames that feel alive.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
               "videos": []
             }
           }
@@ -788,6 +920,94 @@
             "slug": "ishan-kishan",
             "caption": "Cricketer",
             "description": "A shoot with Ishan Kishan, the attacking wicketkeeper-batter. The imagery set out to capture his fearless, high-energy style.\nFrom concept to final delivery, the production was planned around tight athlete schedules, with a crew built to move quickly and capture presence, not just poses.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Dhruv Jurel",
+            "slug": "dhruv-jurel",
+            "caption": "Rising wicketkeeper-batter",
+            "description": "Dhruv Jurel, one of Indian cricket's most exciting young talents. The imagery set out to show a composed, determined athlete on the rise.\nFrom concept to final delivery, the production was shaped around focus and presence: clean light, simple styling and frames that let his calm confidence come through.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Krunal Pandya",
+            "slug": "krunal-pandya",
+            "caption": "All-rounder, seasoned competitor",
+            "description": "Krunal Pandya, the experienced all-rounder known for his match-winning ability. The imagery set out to show personality, confidence and an easy sense of humour.\nFrom concept to final delivery, the production was shaped around character and ease: natural light, relaxed styling and frames that feel real.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Harshit Rana",
+            "slug": "harshit-rana",
+            "caption": "Fast bowler on the rise",
+            "description": "Harshit Rana, the young fast bowler making his mark at the highest level. The imagery set out to show intensity, energy and ambition.\nFrom concept to final delivery, the production was shaped around strength and attitude: dramatic light, strong styling and frames that carry his drive.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Ravindra Jadeja",
+            "slug": "ravindra-jadeja",
+            "caption": "All-rounder, match-winner",
+            "description": "Ravindra Jadeja, one of the finest all-rounders the game has seen. The imagery set out to show a veteran with presence, style and quiet swagger.\nFrom concept to final delivery, the production was shaped around authority and ease: crisp light, confident styling and frames that honour a long career.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Mohammed Siraj",
+            "slug": "mohammed-siraj",
+            "caption": "Fast bowler, fan favourite",
+            "description": "Mohammed Siraj, the fast bowler loved for his heart, hustle and passion. The imagery set out to show warmth, fire and a sportsman who plays with his whole self.\nFrom concept to final delivery, the production was shaped around emotion and energy: strong light, honest styling and frames that feel genuine.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Smriti Mandhana x Hyundai",
+            "slug": "smriti-mandhana-x-hyundai",
+            "caption": "Women's cricket x automotive",
+            "description": "Smriti Mandhana with Hyundai, bringing one of the finest batters in women's cricket together with a leading car brand. The imagery set out to show elegance, composure and ambition.\nFrom concept to final delivery, the production was shaped around poise and clarity: clean light, refined styling and frames that feel confident and modern.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Jemimah Rodrigues x Hyundai",
+            "slug": "jemimah-rodrigues-x-hyundai",
+            "caption": "Women's cricket x automotive",
+            "description": "Jemimah Rodrigues with Hyundai, bringing one of women's cricket's most vibrant personalities together with a leading car brand. The imagery set out to show energy, joy and confidence.\nFrom concept to final delivery, the production was shaped around warmth and spirit: bright light, easy styling and frames full of personality.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Shafali Verma x Hyundai",
+            "slug": "shafali-verma-x-hyundai",
+            "caption": "Women's cricket x automotive",
+            "description": "Shafali Verma with Hyundai, bringing one of the game's most fearless young batters together with a leading car brand. The imagery set out to show boldness and drive.\nFrom concept to final delivery, the production was shaped around attitude and clarity: sharp light, strong styling and frames that carry her confidence.",
             "media": {
               "logo": "",
               "images": [[], []],
@@ -1268,6 +1488,182 @@
               ],
               "videos": []
             }
+          },
+          {
+            "title": "Kartik Aaryan",
+            "slug": "kartik-aaryan",
+            "caption": "Bollywood leading man",
+            "description": "Kartik Aaryan, one of Hindi cinema's most popular leading men. The imagery set out to show charm, ease and star power.\nFrom concept to final delivery, the production was shaped around charisma and polish: warm light, sharp styling and frames that let his personality come through.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Rohit Saraf",
+            "slug": "rohit-saraf",
+            "caption": "Young actor, natural charm",
+            "description": "Rohit Saraf, one of the most appealing young faces in Indian film and streaming. The imagery set out to show a fresh, relaxed and modern presence.\nFrom concept to final delivery, the production was shaped around ease and style: natural light, understated styling and frames with an honest feel.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Aditya Dhar",
+            "slug": "aditya-dhar",
+            "caption": "Director, storyteller",
+            "description": "Aditya Dhar, the filmmaker behind some of Hindi cinema's most talked-about recent work. The imagery set out to show the person behind the camera with presence and intent.\nFrom concept to final delivery, the production was shaped around character and restraint: considered light, simple styling and frames that feel quietly confident.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Kusha Kapila",
+            "slug": "kusha-kapila",
+            "caption": "Creator, comic, actor",
+            "description": "Kusha Kapila, one of India's best-loved digital creators and actors. The imagery set out to show humour, warmth and a style that is entirely her own.\nFrom concept to final delivery, the production was shaped around personality and play: bright light, expressive styling and frames full of life.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Jim Sarbh",
+            "slug": "jim-sarbh",
+            "caption": "Actor of rare range",
+            "description": "Jim Sarbh, one of Indian cinema's most distinctive and versatile actors. The imagery set out to show intensity, wit and an unmistakable presence.\nFrom concept to final delivery, the production was shaped around character and depth: moody light, considered styling and frames that hold attention.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Wamiqa Gabbi",
+            "slug": "wamiqa-gabbi",
+            "caption": "Actor, screen presence",
+            "description": "Wamiqa Gabbi, a talented actor working across Hindi, Punjabi and South Indian cinema. The imagery set out to show elegance, expression and quiet confidence.\nFrom concept to final delivery, the production was shaped around grace and polish: soft light, refined styling and frames that let her expression lead.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Ibrahim Ali Khan",
+            "slug": "ibrahim-ali-khan",
+            "caption": "Next-generation star",
+            "description": "Ibrahim Ali Khan, a new face from one of Hindi cinema's best-known families. The imagery set out to show a young talent with ease, charm and promise.\nFrom concept to final delivery, the production was shaped around freshness and clarity: clean light, simple styling and frames that feel natural.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Ahaan Panday",
+            "slug": "ahaan-panday",
+            "caption": "Debut talent",
+            "description": "Ahaan Panday, one of Hindi cinema's most talked-about new leading men. The imagery set out to show a fresh presence with confidence and style.\nFrom concept to final delivery, the production was shaped around energy and polish: bright light, sharp styling and frames with a youthful feel.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Shraddha Kapoor",
+            "slug": "shraddha-kapoor",
+            "caption": "Leading lady, global fan base",
+            "description": "Shraddha Kapoor, one of Hindi cinema's most popular actors with a huge following. The imagery set out to show warmth, beauty and star presence.\nFrom concept to final delivery, the production was shaped around grace and ease: soft light, elegant styling and frames that feel luminous.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Aditya Roy Kapur",
+            "slug": "aditya-roy-kapur",
+            "caption": "Leading man, understated style",
+            "description": "Aditya Roy Kapur, an actor known for his easy charm and effortless style. The imagery set out to show a relaxed, confident and quietly magnetic presence.\nFrom concept to final delivery, the production was shaped around restraint and polish: natural light, clean styling and frames that let his ease do the work.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Bhumi Pednekar",
+            "slug": "bhumi-pednekar",
+            "caption": "Actor, advocate, trailblazer",
+            "description": "Bhumi Pednekar, an actor admired for her bold choices and strong voice on and off screen. The imagery set out to show confidence, warmth and conviction.\nFrom concept to final delivery, the production was shaped around presence and honesty: clean light, confident styling and frames that feel direct.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Rashmika Mandanna",
+            "slug": "rashmika-mandanna",
+            "caption": "Pan-India star",
+            "description": "Rashmika Mandanna, one of the biggest stars across Indian cinema, working in multiple languages. The imagery set out to show charm, energy and a wide-reaching appeal.\nFrom concept to final delivery, the production was shaped around warmth and polish: bright light, stylish yet easy styling and frames full of life.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Masaba Gupta",
+            "slug": "masaba-gupta",
+            "caption": "Designer, entrepreneur, creative",
+            "description": "Masaba Gupta, one of India's most recognised designers and a bold creative voice. The imagery set out to show colour, confidence and a style that belongs to her alone.\nFrom concept to final delivery, the production was shaped around personality and craft: vivid light, expressive styling and frames that celebrate her individuality.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Vedang Raina",
+            "slug": "vedang-raina",
+            "caption": "Actor, young star",
+            "description": "Vedang Raina, one of the most watched young faces in Indian entertainment. The imagery set out to show a fresh, relaxed and confident presence.\nFrom concept to final delivery, the production was shaped around ease and style: clean light, understated styling and frames that feel natural.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Rothschild family",
+            "slug": "rothschild-family",
+            "caption": "Heritage, legacy, portraiture",
+            "description": "The Rothschild family, one of the most storied names in European history and finance. The imagery set out to show heritage and presence with dignity.\nFrom concept to final delivery, the production was shaped around restraint and respect: considered light, refined composition and frames that carry a sense of legacy.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Boris Johnson",
+            "slug": "boris-johnson",
+            "caption": "Political figure, portraiture",
+            "description": "Boris Johnson, the former UK Prime Minister and one of the most recognisable public figures in the world. The imagery set out to capture personality and presence in a direct, confident portrait.\nFrom concept to final delivery, the production was shaped around character and clarity: clean light, simple composition and frames that let the subject speak.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
           }
         ]
       },
@@ -1571,6 +1967,72 @@
               ],
               "videos": []
             }
+          },
+          {
+            "title": "Karan Aujla",
+            "slug": "karan-aujla",
+            "caption": "Punjabi music's global voice",
+            "description": "Karan Aujla, one of Punjabi music's biggest global stars. The imagery set out to show an artist with swagger, presence and a huge worldwide reach.\nFrom concept to final delivery, the production was shaped around attitude and scale: dramatic light, strong styling and frames that carry his energy.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Linkin Park",
+            "slug": "linkin-park",
+            "caption": "Global rock icons",
+            "description": "Linkin Park, the world-famous rock band with a devoted fan base across generations. The imagery set out to capture the band's presence and intensity.\nFrom concept to final delivery, the production was shaped around mood and impact: bold light, honest framing and images that carry the weight of the music.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "DJ Alok",
+            "slug": "dj-alok",
+            "caption": "Global DJ, Brazilian star",
+            "description": "DJ Alok, the Brazilian DJ and producer with a huge international following. The imagery set out to show a performer with energy, warmth and crowd-moving presence.\nFrom concept to final delivery, the production was shaped around rhythm and spirit: vivid light, expressive framing and images that feel alive.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Ed Sheeran",
+            "slug": "ed-sheeran",
+            "caption": "Global pop songwriter",
+            "description": "Ed Sheeran, one of the world's biggest singer-songwriters. The imagery set out to show a down-to-earth artist with warmth, humour and presence.\nFrom concept to final delivery, the production was shaped around honesty and ease: natural light, simple styling and frames that feel personal.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Raudri Paul",
+            "slug": "raudri-paul",
+            "caption": "Independent artist",
+            "description": "Raudri Paul, an artist shaping a distinct sound and identity. The imagery set out to show creative energy and a clear personal voice.\nFrom concept to final delivery, the production was shaped around character and mood: considered light, simple styling and frames that let the artist lead.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Gurinder Gill",
+            "slug": "gurinder-gill",
+            "caption": "Punjabi music, melody-led",
+            "description": "Gurinder Gill, a Punjabi artist known for melodic, contemporary sound. The imagery set out to show a calm, assured and modern presence.\nFrom concept to final delivery, the production was shaped around mood and ease: soft light, clean styling and frames that feel quietly confident.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
           }
         ]
       },
@@ -1772,6 +2234,17 @@
               ],
               "videos": []
             }
+          },
+          {
+            "title": "Bvlgari x Deepa Khosla",
+            "slug": "bvlgari-x-deepa-khosla",
+            "caption": "Luxury jewellery x creative leader",
+            "description": "Bvlgari with Deepa Khosla, bringing the Italian jeweller together with a leading voice from the world of fashion and culture. The imagery set out to show elegance and presence.\nFrom concept to final delivery, the production was shaped around craft and restraint: precise light, considered styling and frames that hold the detail of every piece.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
           }
         ]
       },
@@ -1799,6 +2272,39 @@
                   "https://res.cloudinary.com/dhlowafw0/image/upload/v1787736895/SaveClip.App_632656572_18363124153164973_401055732520516220_n_uefqji.jpg"
                 ]
               ],
+              "videos": []
+            }
+          },
+          {
+            "title": "Taco Bell",
+            "slug": "taco-bell",
+            "caption": "Bold flavour, youth culture",
+            "description": "Taco Bell, the global quick-service brand known for bold flavours and a youthful voice. The imagery set out to show food as fun, vivid and shareable.\nFrom concept to final delivery, the production was shaped around appetite and personality: vibrant colour, punchy styling and frames that make you hungry.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Red Bull x KL Rahul",
+            "slug": "red-bull-x-kl-rahul",
+            "caption": "Energy x athlete",
+            "description": "Red Bull with KL Rahul, bringing the world's best-known energy brand together with one of India's top cricketers. The imagery set out to show drive, focus and a sportsman at his sharpest.\nFrom concept to final delivery, the production was shaped around intensity and precision: dramatic light, strong styling and frames that hold the energy.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Ribbon Room",
+            "slug": "ribbon-room",
+            "caption": "Dining x atmosphere",
+            "description": "Ribbon Room, a venue built around food, atmosphere and good company. The imagery set out to show the space and its flavour with warmth and style.\nFrom concept to final delivery, the production was shaped around mood and detail: warm light, considered styling and frames that invite you in.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
               "videos": []
             }
           }
@@ -1913,6 +2419,28 @@
                   "https://res.cloudinary.com/dhlowafw0/image/upload/v1786889047/SaveClip.App_554977320_18343586989164973_2672932247180156710_n_ydkl4z.jpg"
                 ]
               ],
+              "videos": []
+            }
+          },
+          {
+            "title": "L'Oreal x Athiya Shetty",
+            "slug": "loreal-x-athiya-shetty",
+            "caption": "Global beauty x editorial",
+            "description": "L'Oreal with Athiya Shetty, shot for Vogue. The imagery set out to show beauty as something luminous, effortless and personal.\nFrom concept to final delivery, the production was shaped around skin and light: soft, flattering lighting, refined styling and frames that keep the focus on the face.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "The Ordinary",
+            "slug": "the-ordinary",
+            "caption": "Clinical formulations, honest communication",
+            "description": "The Ordinary, the skincare brand known for straightforward, science-led products. The imagery set out to show that honesty with clarity and a modern eye.\nFrom concept to final delivery, the production was shaped around simplicity: clean light, minimal styling and frames that make the product and the message easy to trust.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
               "videos": []
             }
           }
@@ -2114,6 +2642,283 @@
                   "https://res.cloudinary.com/dhlowafw0/image/upload/v1786807812/SaveClip.App_554397612_18343386922164973_8106981402992421076_n_hbqihy.jpg"
                 ]
               ],
+              "videos": []
+            }
+          },
+          {
+            "title": "Samsonite x Virat Kohli",
+            "slug": "samsonite-x-virat-kohli",
+            "caption": "Luggage x cricket icon",
+            "description": "Samsonite with Virat Kohli, bringing the world's best-known luggage brand together with one of cricket's biggest names. The imagery set out to show travel, discipline and style as one story.\nFrom concept to final delivery, the production was shaped around movement and precision: crisp light, sharp styling and frames that carry the sense of the journey.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Carry All x KL Rahul",
+            "slug": "carry-all-x-kl-rahul",
+            "caption": "Bags and travel x cricket",
+            "description": "Carry All with KL Rahul, bringing a travel and bag brand together with an athlete who spends much of his life on the road. The imagery set out to show practical design with real personality.\nFrom concept to final delivery, the production was shaped around ease and function: natural light, relaxed styling and frames that put the product in real motion.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          }
+        ]
+      },
+      {
+        "title": "Magazines & Media",
+        "slug": "magazines-media",
+        "brands": [
+          {
+            "title": "GQ x Anuv Jain & Sharvari",
+            "slug": "gq-x-anuv-jain-and-sharvari",
+            "caption": "Editorial x music and screen",
+            "description": "GQ with Anuv Jain and Sharvari, two editorial shoots for one of the world's leading men's style titles. The imagery set out to show each personality with character and ease.\nFrom concept to final delivery, the production was shaped around story and style: considered light, sharp styling and frames built for the page.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Elle x Sharvari",
+            "slug": "elle-x-sharvari",
+            "caption": "Fashion editorial x rising star",
+            "description": "Elle with Sharvari, an editorial for the global fashion magazine. The imagery set out to show a rising actor with style, confidence and a fresh perspective.\nFrom concept to final delivery, the production was shaped around mood and polish: soft light, elegant styling and frames made for the page.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Billboard x Hanumankind",
+            "slug": "billboard-x-hanumankind",
+            "caption": "Music press x breakout artist",
+            "description": "Billboard with Hanumankind, a feature for the leading music publication on one of India's biggest breakout acts. The imagery set out to capture the energy and presence of an artist taking his sound global.\nFrom concept to final delivery, the production was shaped around attitude and clarity: bold light, strong styling and frames that carry the weight of the story.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Billboard Canada",
+            "slug": "billboard-canada",
+            "caption": "Music press x Canadian edition",
+            "description": "Billboard Canada, the regional edition of the world's best-known music publication. The imagery set out to give its artists a visual identity that feels current and confident.\nFrom concept to final delivery, the production was shaped around editorial clarity: dramatic light, considered styling and frames built for print and screen.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Genius x Hanumankind",
+            "slug": "genius-x-hanumankind",
+            "caption": "Lyrics platform x hip-hop talent",
+            "description": "Genius with Hanumankind, bringing the home of lyrics and music knowledge together with an artist known for his words. The imagery set out to show the person behind the verses.\nFrom concept to final delivery, the production was shaped around voice and presence: moody light, simple styling and frames that let the artist lead.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "YouTube x Tilak Varma",
+            "slug": "youtube-x-tilak-varma",
+            "caption": "Global platform x cricket talent",
+            "description": "YouTube with Tilak Varma, bringing the world's largest video platform together with one of Indian cricket's rising stars. The imagery set out to show a young athlete with confidence and warmth.\nFrom concept to final delivery, the production was shaped around energy and ease: clean light, relaxed styling and frames with a natural, personal feel.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Bigg Boss x Nagarjuna",
+            "slug": "bigg-boss-x-nagarjuna",
+            "caption": "Reality television x film icon",
+            "description": "Bigg Boss with Nagarjuna, the host of one of India's most-watched reality shows. The imagery set out to show a screen legend with authority and charisma.\nFrom concept to final delivery, the production was shaped around presence and scale: dramatic light, sharp styling and frames that carry the weight of the show.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Crunchyroll x Shubman Gill",
+            "slug": "crunchyroll-x-shubman-gill",
+            "caption": "Anime streaming x sports talent",
+            "description": "Crunchyroll with Shubman Gill, bringing the leading anime platform together with one of cricket's brightest names. The imagery set out to show a shared love of fandom in a playful, modern frame.\nFrom concept to final delivery, the production was shaped around fun and style: vivid light, creative styling and frames that feel both cinematic and personal.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Versant x Shubman Gill",
+            "slug": "versant-x-shubman-gill",
+            "caption": "Media network x sports talent",
+            "description": "Versant with Shubman Gill, bringing a major media network together with one of cricket's most popular faces. The imagery set out to show an athlete with poise and star quality.\nFrom concept to final delivery, the production was shaped around clarity and polish: clean light, considered styling and frames that hold attention.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          }
+        ]
+      },
+      {
+        "title": "Tech & Consumer",
+        "slug": "tech-consumer",
+        "brands": [
+          {
+            "title": "Samsung x Rohit Saraf",
+            "slug": "samsung-x-rohit-saraf",
+            "caption": "Consumer technology x young talent",
+            "description": "Samsung with Rohit Saraf, bringing a global technology leader together with one of Indian cinema's most appealing young actors. The imagery set out to show technology as part of everyday life.\nFrom concept to final delivery, the production was shaped around clarity and warmth: bright light, natural styling and frames that feel modern and human.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "boAt x KR$NA",
+            "slug": "boat-x-krsna",
+            "caption": "Audio lifestyle x hip-hop",
+            "description": "boAt with KR$NA, bringing India's leading audio brand together with one of its sharpest rap voices. The imagery set out to show music and sound as part of identity.\nFrom concept to final delivery, the production was shaped around attitude and rhythm: bold light, street-led styling and frames with energy.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Noise x Jim Sarbh",
+            "slug": "noise-x-jim-sarbh",
+            "caption": "Wearables x screen presence",
+            "description": "Noise with Jim Sarbh, bringing a homegrown wearables brand together with one of Indian cinema's most distinctive actors. The imagery set out to show everyday technology with style.\nFrom concept to final delivery, the production was shaped around character and ease: clean light, understated styling and frames that let the personality lead.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Nayara x KL Rahul",
+            "slug": "nayara-x-kl-rahul",
+            "caption": "Fuel brand x cricket",
+            "description": "Nayara with KL Rahul, bringing an Indian fuel and energy brand together with one of the country's best-known cricketers. The imagery set out to show reliability, pace and a trusted face.\nFrom concept to final delivery, the production was shaped around clarity and trust: clean light, confident styling and frames with a sense of forward motion.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          }
+        ]
+      },
+      {
+        "title": "AI & Technology",
+        "slug": "ai-technology",
+        "brands": [
+          {
+            "title": "ChatGPT",
+            "slug": "chatgpt",
+            "caption": "AI for everyday life",
+            "description": "ChatGPT, the conversational AI tool that has become part of how millions of people work and learn. The campaign set out to bring that familiarity to life in a clear, human way.\nFrom concept to final delivery, the production was shaped around clarity and approachability: clean visuals, thoughtful direction and a finish that makes the technology feel simple.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "TRTF",
+            "slug": "trtf",
+            "caption": "AI-led campaign",
+            "description": "TRTF, an AI-led campaign built around a clear creative idea. The work set out to use new technology to tell a story with imagination and polish.\nFrom concept to final delivery, the production was shaped around concept and finish: careful direction, consistent visual language and a result that holds together as one world.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Hyperfuel",
+            "slug": "hyperfuel",
+            "caption": "AI-led campaign",
+            "description": "Hyperfuel, an AI-led campaign built around energy and momentum. The work set out to turn a bold idea into striking, memorable visuals.\nFrom concept to final delivery, the production was shaped around impact and consistency: deliberate direction, strong visual identity and a finish that feels premium.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Chk",
+            "slug": "chk",
+            "caption": "AI-led campaign",
+            "description": "Chk, an AI-led campaign built around a distinct creative voice. The work set out to show how new tools can deliver fresh, original storytelling.\nFrom concept to final delivery, the production was shaped around idea and execution: clear direction, careful refinement and a polished result.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          }
+        ]
+      },
+      {
+        "title": "Events",
+        "slug": "events",
+        "brands": [
+          {
+            "title": "Adidas Marathon",
+            "slug": "adidas-marathon",
+            "caption": "Running culture x global sportswear",
+            "description": "Adidas Marathon, an event bringing a global sportswear leader together with a community of runners. The imagery set out to capture effort, endurance and the spirit of the crowd.\nFrom concept to final delivery, the production was shaped around movement and moment: dynamic light, honest framing and images that carry the energy of race day.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "AYC Event",
+            "slug": "ayc-event",
+            "caption": "Live event coverage",
+            "description": "AYC Event, a live occasion covered with an eye for atmosphere and people. The imagery set out to capture the energy of the night and the moments that defined it.\nFrom concept to final delivery, the production was shaped around mood and spontaneity: responsive light, candid framing and images that feel like being there.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "MVM",
+            "slug": "mvm",
+            "caption": "Live event coverage",
+            "description": "MVM, an event covered with a focus on energy, people and atmosphere. The imagery set out to capture the scale and feel of the occasion.\nFrom concept to final delivery, the production was shaped around moment and mood: adaptable light, candid framing and images that carry the room.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
+              "videos": []
+            }
+          },
+          {
+            "title": "Gamezy",
+            "slug": "gamezy",
+            "caption": "Fantasy sports x fan culture",
+            "description": "Gamezy, the fantasy sports and gaming platform built around the passion of Indian sports fans. The imagery set out to show excitement and competition with energy.\nFrom concept to final delivery, the production was shaped around pace and impact: bold light, dynamic styling and frames that feel like matchday.",
+            "media": {
+              "logo": "",
+              "images": [[], []],
               "videos": []
             }
           }

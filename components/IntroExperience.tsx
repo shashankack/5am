@@ -37,7 +37,14 @@ export function IntroExperience({ hero, children }: IntroExperienceProps) {
       "(prefers-reduced-motion: reduce)",
     ).matches;
 
-    if (hasIntroPlayed() || reduced) {
+    if (hasIntroPlayed()) {
+      markIntroPlayed();
+      setPhase("done");
+      return;
+    }
+
+    if (reduced) {
+      clearIntroBootStyle();
       setPhase("done");
       return;
     }

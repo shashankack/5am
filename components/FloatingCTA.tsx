@@ -1,20 +1,16 @@
 "use client";
 
-import { useCallback, useId, useState } from "react";
-import { InquiryModal } from "./InquiryForm";
+import { useInquiry } from "./InquiryForm";
 
 type FloatingCTAProps = {
   visible: boolean;
 };
 
 export function FloatingCTA({ visible }: FloatingCTAProps) {
-  const [open, setOpen] = useState(false);
-  const dialogId = useId();
-  const onClose = useCallback(() => setOpen(false), []);
+  const { open, dialogId, openInquiry } = useInquiry();
   const shown = visible && !open;
 
   return (
-    <>
       <div
         className={[
           "fixed z-[110] transition-transform duration-300 ease-[cubic-bezier(0.22,1,0.36,1)]",
@@ -28,7 +24,7 @@ export function FloatingCTA({ visible }: FloatingCTAProps) {
       >
         <button
           type="button"
-          onClick={() => setOpen(true)}
+          onClick={openInquiry}
           aria-haspopup="dialog"
           aria-expanded={open}
           aria-controls={dialogId}
@@ -52,8 +48,5 @@ export function FloatingCTA({ visible }: FloatingCTAProps) {
           </span>
         </button>
       </div>
-
-      <InquiryModal id={dialogId} open={open} onClose={onClose} />
-    </>
   );
 }

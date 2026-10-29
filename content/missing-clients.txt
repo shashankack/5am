@@ -1,0 +1,161 @@
+Shoots.csv vs en.json — missing clients and images
+Generated: 28 Oct 2026
+Matching was done by hand (CSV spellings vary), so a few entries are judgement calls.
+
+============================================================
+1. BRANDS IN Shoots.csv WITH NO CLIENT ENTRY IN en.json (37)
+============================================================
+
+Fashion & retail
+- Vero Moda (with Lisa Ray)
+- Lotto
+- Aldo (with Vedang Raina)
+- Puma (with KL Rahul; with Shanaya Kapoor)
+- Zudio
+- Crocs
+- Home Grown
+- YSL
+- Ramraj Cotton
+- XYXX (with KL Rahul)
+- DCA x Michael Kors
+
+Magazines & media
+- GQ (with Anuv Jain; with Sharvari)
+- Elle (with Sharvari)
+- Billboard (with Hanumankind)
+- Billboard Canada
+- Genius (with Hanumankind)
+- YouTube (with Tilak Varma)
+- Bigg Boss (with Nagarjuna)
+- Crunchyroll (with Shubman Gill)
+- Versant (with Shubman Gill)
+
+Beauty
+- L'Oreal (shot for Vogue with Athiya Shetty)
+- The Ordinary
+
+Tech & consumer
+- Samsung (with Rohit Saraf)
+- boAt (with KR$NA)
+- Noise (with Jim Sarbh)
+- Samsonite (with Virat Kohli)
+- Carry All (with KL Rahul)
+- Youva (with Kartik Aaryan, Ananya Panday)
+
+Food, drink & fuel
+- Taco Bell
+- Red Bull (with KL Rahul)
+- Nayara (with KL Rahul)
+- Ribbon Room
+
+AI campaigns
+- ChatGPT
+- TRTF
+- Hyperfuel
+- Chk
+
+Events & other
+- Adidas Marathon
+- AYC Event
+- MVM
+- Gamezy
+
+============================================================
+2. PEOPLE IN Shoots.csv WITH NO CLIENT ENTRY IN en.json (31)
+============================================================
+
+Cricket
+- Dhruv Jurel
+- Krunal Pandya
+- Harshit Rana
+- Ravindra Jadeja
+- Mohammed Siraj
+- Smriti Mandhana (with Hyundai)
+- Jemimah Rodrigues (with Hyundai)
+- Shafali Verma (with Hyundai)
+
+Actors
+- Kartik Aaryan
+- Rohit Saraf
+- Aditya Dhar (CSV: "Aditya Dharkari")
+- Kusha Kapila
+- Jim Sarbh
+- Wamiqa Gabbi
+- Ibrahim Ali Khan
+- Ahaan Panday
+- Shraddha Kapoor
+- Aditya Roy Kapur
+- Bhumi Pednekar
+- Rashmika Mandanna
+- Masaba Gupta
+
+Music
+- Karan Aujla
+- Linkin Park
+- DJ Alok
+- Ed Sheeran
+- Raudri Paul
+- Gurinder Gill
+
+Other
+- Deepa Khosla (with Bvlgari)
+- Vedang Raina
+- Rothschild family
+- Boris Johnson
+
+============================================================
+3. JUDGEMENT CALLS (in en.json, but CSV describes a different shoot)
+============================================================
+
+- Gucci: en.json has Gucci x Athiya Shetty; CSV describes an in-store shoot in Kolkata.
+- The Business of Fashion: en.json has it with Tania Shroff; CSV has it with Jacqueline Fernandez.
+- Ishan Kishan: CSV also mentions building his academy's branding, which isn't covered.
+- "AP Event" in the CSV is assumed to be AP Dhillon.
+- CSV row 91 says "Forgot brand name" (Nagarjuna print campaign) and can't be matched.
+
+============================================================
+4. CLIENTS IN en.json WITH NO CLIENT-PAGE IMAGES (images[1] empty) (24)
+============================================================
+
+Automotive
+- Audi
+- Mercedes-Benz
+- Hyundai
+- TVS
+
+Fashion
+- Manish Malhotra
+- B Label
+- Snitch
+- Shein
+
+Cricket
+- Rohit Sharma
+- Tilak Varma
+- Ishan Kishan
+
+Music
+- Anuv Jain
+- Yung Raja
+
+Finance
+- HSBC Bank
+- Tata Capital
+
+Jewellery
+- Chedda Jewelleries
+
+Beauty
+- Kylie Cosmetics
+- Lakme
+- Meraki
+- Personal Touch
+
+Retail & accessories
+- Nykaa
+- American Tourister
+- Lenskart
+- G-Shock x Shubman Gill (has its 4 landing-grid images, but none for its own page)
+
+Note: most clients have no landing-grid images (images[0]). That is expected:
+only the 12 clients featured on the home page use the grid, and all 12 have their 4 images.

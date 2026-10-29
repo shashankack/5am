@@ -16,7 +16,10 @@ export function LandingSection({
   const brands = getBrandsBySlugs(section.clients);
 
   return (
-    <section className="w-full px-6 py-16 md:px-16 md:py-40">
+    <section
+      id={section.id === "we-create-campaigns" ? "services" : section.id}
+      className="w-full scroll-mt-28 px-6 py-16 md:scroll-mt-32 md:px-16 md:py-40"
+    >
       <div className="mx-auto flex w-full max-w-6xl flex-col gap-20 md:gap-28">
         {(section.title || section.description || section.locations) && (
           <Reveal

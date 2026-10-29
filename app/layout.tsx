@@ -1,9 +1,11 @@
 import type { Metadata, Viewport } from "next";
+import { cookies } from "next/headers";
 import localFont from "next/font/local";
 import { Noto_Serif } from "next/font/google";
-import Script from "next/script";
-import { Footer, Navbar } from "@/components";
-import { INTRO_BOOT_SCRIPT } from "@/lib/intro";
+import { Footer } from "@/components/Footer";
+import { InquiryProvider } from "@/components/InquiryForm";
+import { Navbar } from "@/components/Navbar";
+import { INTRO_PENDING_CLASS, INTRO_PLAYED_KEY } from "@/lib/intro";
 import "./globals.css";
 
 const helvetica = localFont({
@@ -40,23 +42,25 @@ export const viewport: Viewport = {
   viewportFit: "cover",
 };
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  const introPlayed =
+    (await cookies()).get(INTRO_PLAYED_KEY)?.value === "1";
+
   return (
     <html
       lang="en"
-      className={`${helvetica.variable} ${notoSerif.variable} h-full antialiased`}
+      className={`${helvetica.variable} ${notoSerif.variable} h-full antialiased${introPlayed ? "" : ` ${INTRO_PENDING_CLASS}`}`}
     >
       <body className="flex min-h-full flex-col bg-bg font-sans text-body antialiased">
-        <Script id="intro-boot" strategy="beforeInteractive">
-          {INTRO_BOOT_SCRIPT}
-        </Script>
-        <Navbar />
-        {children}
-        <Footer />
+        <InquiryProvider>
+          <Navbar />
+          {children}
+          <Footer />
+        </InquiryProvider>
       </body>
     </html>
   );
